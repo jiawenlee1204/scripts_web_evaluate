@@ -1,0 +1,29 @@
+[
+  {
+    "episode_id": "E08",
+    "scene_id": "E08-S01",
+    "candidate_id": "S01",
+    "setup_content": "许若安并未死亡，而是躲藏在鹿岛旧疗养院",
+    "surface_meaning_at_first": "姐妹重逢，许若安向姐姐道歉，确认她还活着",
+    "possible_future_function": "揭示许若安失踪的真相，为后续出庭作证埋下基础",
+    "evidence": "E08-S01：姐妹重逢，许若安道歉，确认许若安活着"
+  },
+  {
+    "episode_id": "E08",
+    "scene_id": "E08-S06",
+    "candidate_id": "S02",
+    "setup_content": "管理员影像出现在删除确认界面",
+    "surface_meaning_at_first": "管理员影像作为授权角色出现，确认删除数字副本",
+    "possible_future_function": "暗示管理员身份的特殊性，可能关联系统设计者或监护人",
+    "evidence": "E08-S06：管理员确认删除，许若清按确认，管理员离线"
+  },
+  {
+    "episode_id": "E08",
+    "scene_id": "E08-S08",
+    "candidate_id": "S03",
+    "setup_content": "许若清关掉手机录音功能，不再记录日常",
+    "surface_meaning_at_first": "许若清在海边与妹妹对话后，关闭了坚持多年的录音习惯",
+    "possible_future_function": "象征许若清放下过去，开始新生活，呼应全剧的‘离线’主题",
+    "evidence": "E08-S08：许若清关机，不再录音"
+  }
+]

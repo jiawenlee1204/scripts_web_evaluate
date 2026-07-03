@@ -1,0 +1,101 @@
+[
+  {
+    "episode_id": "E08",
+    "scene_id": "E08-S01",
+    "character_name": "许若安",
+    "action": "向许若清道歉",
+    "motivation_evidence": "",
+    "consequence": "确认许若清得知自己活着",
+    "cost_or_risk": "",
+    "change_after_action": "姐妹重逢",
+    "relationship_impact": "姐妹关系缓和"
+  },
+  {
+    "episode_id": "E08",
+    "scene_id": "E08-S02",
+    "character_name": "许若安",
+    "action": "讲述两年前冲突和逃离经过",
+    "motivation_evidence": "",
+    "consequence": "许若清了解真相",
+    "cost_or_risk": "",
+    "change_after_action": "了解真相",
+    "relationship_impact": "增进理解"
+  },
+  {
+    "episode_id": "E08",
+    "scene_id": "E08-S03",
+    "character_name": "许若安",
+    "action": "同意出庭作证",
+    "motivation_evidence": "",
+    "consequence": "顾峥确认证人愿意出庭",
+    "cost_or_risk": "可能面临风险",
+    "change_after_action": "证人愿意出庭",
+    "relationship_impact": ""
+  },
+  {
+    "episode_id": "E08",
+    "scene_id": "E08-S03",
+    "character_name": "顾峥",
+    "action": "确认许若安愿意出庭",
+    "motivation_evidence": "需要证据",
+    "consequence": "证人愿意出庭",
+    "cost_or_risk": "",
+    "change_after_action": "",
+    "relationship_impact": ""
+  },
+  {
+    "episode_id": "E08",
+    "scene_id": "E08-S04",
+    "character_name": "顾峥",
+    "action": "出示证据链",
+    "motivation_evidence": "",
+    "consequence": "孟远舟被控制",
+    "cost_or_risk": "",
+    "change_after_action": "孟远舟被控制",
+    "relationship_impact": ""
+  },
+  {
+    "episode_id": "E08",
+    "scene_id": "E08-S05",
+    "character_name": "许若安",
+    "action": "选择让系统结束（删除数字副本）",
+    "motivation_evidence": "",
+    "consequence": "决定删除数字副本",
+    "cost_or_risk": "失去数字副本",
+    "change_after_action": "决定删除",
+    "relationship_impact": ""
+  },
+  {
+    "episode_id": "E08",
+    "scene_id": "E08-S06",
+    "character_name": "许若清",
+    "action": "按确认删除管理员",
+    "motivation_evidence": "",
+    "consequence": "管理员离线",
+    "cost_or_risk": "",
+    "change_after_action": "管理员离线",
+    "relationship_impact": ""
+  },
+  {
+    "episode_id": "E08",
+    "scene_id": "E08-S07",
+    "character_name": "周望",
+    "action": "卸载母亲回声",
+    "motivation_evidence": "",
+    "consequence": "案件结束",
+    "cost_or_risk": "",
+    "change_after_action": "案件结束",
+    "relationship_impact": "与母亲告别"
+  },
+  {
+    "episode_id": "E08",
+    "scene_id": "E08-S08",
+    "character_name": "许若清",
+    "action": "关机，不再录音",
+    "motivation_evidence": "",
+    "consequence": "新的开始",
+    "cost_or_risk": "",
+    "change_after_action": "新的开始",
+    "relationship_impact": "姐妹关系新阶段"
+  }
+]

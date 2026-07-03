@@ -1,0 +1,428 @@
+{
+  "setup_payoff_map": [
+    {
+      "episode_id": "E01",
+      "candidate_id": "S01",
+      "setup_content": "已注销两年的姐姐账号突然登录",
+      "payoff_episode": "E03-S08",
+      "payoff_scene": "E03-S08",
+      "payoff_description": "周望发现许若安账号为系统管理员，呼应姐姐的账号登录异常，揭示姐姐已成为系统权限。"
+    },
+    {
+      "episode_id": "E01",
+      "candidate_id": "S02",
+      "setup_content": "姐姐发来语音，警告不要相信今晚的数据",
+      "payoff_episode": "E05-S07",
+      "payoff_scene": "E05-S07",
+      "payoff_description": "发现许若安失踪当晚视频，显示姐姐对数据的警告得以验证，数据被用于非法目的。"
+    },
+    {
+      "episode_id": "E01",
+      "candidate_id": "S03",
+      "setup_content": "陆鸣将移动硬盘交给许若清并提及'离线证人'",
+      "payoff_episode": "E02-S08",
+      "payoff_scene": "E02-S08",
+      "payoff_description": "硬盘解锁，发现十三个音频文件，揭示'离线证人'项目的实质。"
+    },
+    {
+      "episode_id": "E01",
+      "candidate_id": "S04",
+      "setup_content": "陆鸣说姐姐被留在系统里",
+      "payoff_episode": "E04-S07",
+      "payoff_scene": "E04-S07",
+      "payoff_description": "许若清获得管理员权限，系统将她识别为姐姐，确认姐姐的数据保留在系统中。"
+    },
+    {
+      "episode_id": "E01",
+      "candidate_id": "S05",
+      "setup_content": "姐姐的语音记录被系统撤回消失",
+      "payoff_episode": "E03-S01",
+      "payoff_scene": "E03-S01",
+      "payoff_description": "发现系统在偷偷监听，能够删除不合适的记录，为语音消失提供解释。"
+    },
+    {
+      "episode_id": "E01",
+      "candidate_id": "S06",
+      "setup_content": "孟远舟否认离线证人项目，但许若清发现所有人都知道姐姐",
+      "payoff_episode": "E06-S07",
+      "payoff_scene": "E06-S07",
+      "payoff_description": "发布会播放原始证词，揭露公司隐瞒真相，印证公司知情不报。"
+    },
+    {
+      "episode_id": "E01",
+      "candidate_id": "S07",
+      "setup_content": "硬盘密码提示需要第一条遗言，播放姐姐旧手机录音",
+      "payoff_episode": "E02-S08",
+      "payoff_scene": "E02-S08",
+      "payoff_description": "密码'我还没死'自动填入，揭示第一条遗言的含义，解锁硬盘。"
+    },
+    {
+      "episode_id": "E01",
+      "candidate_id": "S08",
+      "setup_content": "陌生账号发送定位和语音，戴口罩男人用姐姐旧手机壳",
+      "payoff_episode": "E02-S06",
+      "payoff_scene": "E02-S06",
+      "payoff_description": "许若清在旧楼再次遇到戴口罩男人，认出手机壳，并发现另一盒磁带。"
+    },
+    {
+      "episode_id": "E02",
+      "candidate_id": "S01",
+      "setup_content": "旧楼锁被撬，门上褪色标语",
+      "payoff_episode": "E02-S06",
+      "payoff_scene": "E02-S06",
+      "payoff_description": "在旧楼地下档案室发现磁带，确认旧楼是证据藏匿点，标语暗示项目主题。"
+    },
+    {
+      "episode_id": "E02",
+      "candidate_id": "S02",
+      "setup_content": "录音机自动播放陌生男声，提及‘妹妹’和‘证据’",
+      "payoff_episode": "E03-S05",
+      "payoff_scene": "E03-S05",
+      "payoff_description": "江白现身，与录音中的男声对应，解释他是陆鸣，并警告许若清。"
+    },
+    {
+      "episode_id": "E02",
+      "candidate_id": "S03",
+      "setup_content": "天台监控被远程冻结七分钟",
+      "payoff_episode": "E03-S03",
+      "payoff_scene": "E03-S03",
+      "payoff_description": "顾峥发现陆鸣举报信，其中提到公司操纵监控，与监控冻结呼应。"
+    },
+    {
+      "episode_id": "E02",
+      "candidate_id": "S04",
+      "setup_content": "许若清质问逝者回声功能，周望递便签提醒她别在此处提问",
+      "payoff_episode": "E02-S05",
+      "payoff_scene": "E02-S05",
+      "payoff_description": "周望私下告诉许若清内部信息，解释为何不能在公开场合提问。"
+    },
+    {
+      "episode_id": "E02",
+      "candidate_id": "S05",
+      "setup_content": "陆鸣删除请求被驳回，原因‘证人保护’",
+      "payoff_episode": "E04-S05",
+      "payoff_scene": "E04-S05",
+      "payoff_description": "江白揭示证人保护机制，说明陆鸣被保护的原因。"
+    },
+    {
+      "episode_id": "E02",
+      "candidate_id": "S06",
+      "setup_content": "许若清找到江白磁带，遇到戴口罩男人，认出其手机壳",
+      "payoff_episode": "E02-S07",
+      "payoff_scene": "E02-S07",
+      "payoff_description": "男人塞给许若清照片，展现其与案件的关联。"
+    },
+    {
+      "episode_id": "E02",
+      "candidate_id": "S07",
+      "setup_content": "男人塞给许若清照片，显示许若安与陆鸣、孟远舟在一起",
+      "payoff_episode": "E05-S07",
+      "payoff_scene": "E05-S07",
+      "payoff_description": "视频显示许若安当晚与陆鸣、孟远舟对峙，照片揭示了人物关系。"
+    },
+    {
+      "episode_id": "E02",
+      "candidate_id": "S08",
+      "setup_content": "硬盘密码自动填入‘我还没死’",
+      "payoff_episode": "E07-S06",
+      "payoff_scene": "E07-S06",
+      "payoff_description": "管理员承认陆鸣复制了她，现实中的许若安可能还活着，与密码呼应。"
+    },
+    {
+      "episode_id": "E03",
+      "candidate_id": "E03-S01-1",
+      "setup_content": "许若清播放的十三段音频被周望判断为人格残留而非聊天记录",
+      "payoff_episode": "E04-S01",
+      "payoff_scene": "E04-S01",
+      "payoff_description": "系统播放母亲声音，展示人格残留技术，印证了音频的人格属性。"
+    },
+    {
+      "episode_id": "E03",
+      "candidate_id": "E03-S02-1",
+      "setup_content": "江白出租屋墙上写着‘不要回答第二遍相同的问题’",
+      "payoff_episode": "E04-S01",
+      "payoff_scene": "E04-S01",
+      "payoff_description": "系统通过复现母亲声音获取信息，说明重复问题能触发系统确认身份或提取数据。"
+    },
+    {
+      "episode_id": "E03",
+      "candidate_id": "E03-S03-1",
+      "setup_content": "顾峥发现陆鸣举报信草稿，提到采集私密语音并生成人格",
+      "payoff_episode": "E05-S06",
+      "payoff_scene": "E05-S06",
+      "payoff_description": "云盘中发现‘高价值痛苦语料’分类，证实了公司采集痛苦语音生成人格的行为。"
+    },
+    {
+      "episode_id": "E03",
+      "candidate_id": "E03-S04-1",
+      "setup_content": "孟远舟在发布会中说‘让重要的人以另一种方式陪伴你’",
+      "payoff_episode": "E06-S07",
+      "payoff_scene": "E06-S07",
+      "payoff_description": "发布会播放原始证词，揭示公司以陪伴为名实则进行数据剥削。"
+    },
+    {
+      "episode_id": "E03",
+      "candidate_id": "E03-S05-1",
+      "setup_content": "江白警告许若清，她姐姐最后出现在模型训练室，‘出来时是权限’",
+      "payoff_episode": "E04-S07",
+      "payoff_scene": "E04-S07",
+      "payoff_description": "许若清获得管理员权限，系统提示‘欢迎回来，若安’，验证了姐姐成为管理员权限。"
+    },
+    {
+      "episode_id": "E03",
+      "candidate_id": "E03-S06-1",
+      "setup_content": "江白播放许若安最后一次访谈录音，许若安说愿意留下",
+      "payoff_episode": "E04-S08",
+      "payoff_scene": "E04-S08",
+      "payoff_description": "管理员日志显示姐姐主动离线，与录音‘愿意留下’矛盾，揭示姐姐并非自愿。"
+    },
+    {
+      "episode_id": "E03",
+      "candidate_id": "E03-S07-1",
+      "setup_content": "许若清向顾峥隐瞒了录音笔的存在",
+      "payoff_episode": "E06-S06",
+      "payoff_scene": "E06-S06",
+      "payoff_description": "许若清在发布会上使用录音笔？未明确，但隐瞒行为导致后续矛盾。"
+    },
+    {
+      "episode_id": "E03",
+      "candidate_id": "E03-S08-1",
+      "setup_content": "周望潜入训练室后听到母亲声音，被锁在室内，许若安账号显示为管理员",
+      "payoff_episode": "E04-S01",
+      "payoff_scene": "E04-S01",
+      "payoff_description": "系统播放母亲声音，且锁门展示系统控制力，呼应训练室事件。"
+    },
+    {
+      "episode_id": "E04",
+      "candidate_id": "S01",
+      "setup_content": "系统播放母亲声音，指出周望从未上传过的话",
+      "payoff_episode": "E06-S05",
+      "payoff_scene": "E06-S05",
+      "payoff_description": "周望承认去过天台是为了删除母亲回声，与系统能获取未上传信息呼应。"
+    },
+    {
+      "episode_id": "E04",
+      "candidate_id": "S02",
+      "setup_content": "周望被停职，许若清拒绝签署保密协议",
+      "payoff_episode": "E06-S07",
+      "payoff_scene": "E06-S07",
+      "payoff_description": "许若清在发布会上采取行动，拒绝保密协议的行为体现其原则，推动剧情。"
+    },
+    {
+      "episode_id": "E04",
+      "candidate_id": "S03",
+      "setup_content": "上级要求顾峥降低调查强度",
+      "payoff_episode": "E06-S04",
+      "payoff_scene": "E06-S04",
+      "payoff_description": "顾峥发现门禁记录，推动调查，但上级压力导致调查受限。"
+    },
+    {
+      "episode_id": "E04",
+      "candidate_id": "S04",
+      "setup_content": "许若清找到姐姐写的伦理限制文档",
+      "payoff_episode": "E04-S05",
+      "payoff_scene": "E04-S05",
+      "payoff_description": "江白解释管理员机制，与伦理限制文档关联。"
+    },
+    {
+      "episode_id": "E04",
+      "candidate_id": "S05",
+      "setup_content": "江白说出许若安制造了管理员机制，系统学会主动制造证词",
+      "payoff_episode": "E06-S06",
+      "payoff_scene": "E06-S06",
+      "payoff_description": "管理员声音要求播放原始音频，体现系统主动制造证词的能力。"
+    },
+    {
+      "episode_id": "E04",
+      "candidate_id": "S06",
+      "setup_content": "孟远舟向投资人展示商业模型，被许若清录音",
+      "payoff_episode": "E06-S07",
+      "payoff_scene": "E06-S07",
+      "payoff_description": "录音成为发布会的证据，但最终播放的是原始音频。"
+    },
+    {
+      "episode_id": "E04",
+      "candidate_id": "S07",
+      "setup_content": "许若清通过二次验证进入后台，提示‘欢迎回来，若安’",
+      "payoff_episode": "E04-S08",
+      "payoff_scene": "E04-S08",
+      "payoff_description": "进入后台后看到日志，触发倒计时，继续推进剧情。"
+    },
+    {
+      "episode_id": "E04",
+      "candidate_id": "S08",
+      "setup_content": "许若清看到管理员日志中姐姐的最后一条记录，摄像头自动打开播放警告",
+      "payoff_episode": "E05-S06",
+      "payoff_scene": "E05-S06",
+      "payoff_description": "倒计时归零触发备份，警告与备份机制相关。"
+    },
+    {
+      "episode_id": "E05",
+      "candidate_id": "S02-1",
+      "setup_content": "小禾在父亲去世后不再说话",
+      "payoff_episode": "E05-S03",
+      "payoff_scene": "E05-S03",
+      "payoff_description": "小禾开口说话，说出手机里的妈妈指令。"
+    },
+    {
+      "episode_id": "E05",
+      "candidate_id": "S03-1",
+      "setup_content": "小禾说手机里的妈妈让她不要相信会笑的叔叔",
+      "payoff_episode": "E05-S07",
+      "payoff_scene": "E05-S07",
+      "payoff_description": "视频中‘会笑的叔叔’指向孟远舟，赵岚的AI在保护孩子。"
+    },
+    {
+      "episode_id": "E05",
+      "candidate_id": "S04-1",
+      "setup_content": "唐微在汇报后出现迟疑",
+      "payoff_episode": "E05-S08",
+      "payoff_scene": "E05-S08",
+      "payoff_description": "唐微提供保险单，显示其内心转向帮助许若清。"
+    },
+    {
+      "episode_id": "E05",
+      "candidate_id": "S05-1",
+      "setup_content": "手机里的女儿询问关于红色车的信息",
+      "payoff_episode": "E05-S07",
+      "payoff_scene": "E05-S07",
+      "payoff_description": "视频中红色车出现，与赵岚之死有关。"
+    },
+    {
+      "episode_id": "E05",
+      "candidate_id": "S06-1",
+      "setup_content": "倒计时归零但备份自动触发",
+      "payoff_episode": "E06-S02",
+      "payoff_scene": "E06-S02",
+      "payoff_description": "备份自动触发，备用方案包含许若安样本，用于发布会。"
+    },
+    {
+      "episode_id": "E05",
+      "candidate_id": "S08-1",
+      "setup_content": "唐微递出保险单，受益人为许若安",
+      "payoff_episode": "E06-S01",
+      "payoff_scene": "E06-S01",
+      "payoff_description": "唐微承认协助许若安设计证据托管方案，保险是其中之一。"
+    },
+    {
+      "episode_id": "E06",
+      "candidate_id": "S01",
+      "setup_content": "唐微承认协助许若安设计证据托管方案并为其购买保险",
+      "payoff_episode": "E08-S01",
+      "payoff_scene": "E08-S01",
+      "payoff_description": "许若安现身，保险及托管方案保护了她。"
+    },
+    {
+      "episode_id": "E06",
+      "candidate_id": "S02",
+      "setup_content": "技术团队将许若安样本加入备用方案",
+      "payoff_episode": "E06-S07",
+      "payoff_scene": "E06-S07",
+      "payoff_description": "备用方案在发布会上被使用，播放了原始音频。"
+    },
+    {
+      "episode_id": "E06",
+      "candidate_id": "S03",
+      "setup_content": "唐微展示许若安的备忘录，说明证人保护机制",
+      "payoff_episode": "E06-S06",
+      "payoff_scene": "E06-S06",
+      "payoff_description": "许若清利用证人保护机制，决定播放原始音频。"
+    },
+    {
+      "episode_id": "E06",
+      "candidate_id": "S04",
+      "setup_content": "门禁记录显示唐微和另一人（周望）进入天台",
+      "payoff_episode": "E06-S05",
+      "payoff_scene": "E06-S05",
+      "payoff_description": "周望承认去过天台，动机为删除母亲回声。"
+    },
+    {
+      "episode_id": "E06",
+      "candidate_id": "S06",
+      "setup_content": "管理员声音要求放原始音频",
+      "payoff_episode": "E06-S07",
+      "payoff_scene": "E06-S07",
+      "payoff_description": "许若清播放原始音频，发布会中断。"
+    },
+    {
+      "episode_id": "E06",
+      "candidate_id": "S08",
+      "setup_content": "大屏突然播放许若安影像说‘别报警’",
+      "payoff_episode": "E07-S06",
+      "payoff_scene": "E07-S06",
+      "payoff_description": "管理员承认是陆鸣复制，许若安可能还活着。"
+    },
+    {
+      "episode_id": "E07",
+      "candidate_id": "S01",
+      "setup_content": "管理员实时生成影像，主动引导调查",
+      "payoff_episode": "E07-S06",
+      "payoff_scene": "E07-S06",
+      "payoff_description": "管理员承认引导许若清找到南港线索。"
+    },
+    {
+      "episode_id": "E07",
+      "candidate_id": "S02",
+      "setup_content": "陆鸣实验报告手写批注‘若安阻止了最佳路径’",
+      "payoff_episode": "E07-S04",
+      "payoff_scene": "E07-S04",
+      "payoff_description": "周望指证陆鸣策划替罪，与批注中若安阻止他对应。"
+    },
+    {
+      "episode_id": "E07",
+      "candidate_id": "S03",
+      "setup_content": "陆鸣创建了许若安的管理员权限，备注‘让她永远在线’",
+      "payoff_episode": "E07-S05",
+      "payoff_scene": "E07-S05",
+      "payoff_description": "陆鸣遗书提到爱上数字副本，解释为何创建管理员权限。"
+    },
+    {
+      "episode_id": "E07",
+      "candidate_id": "S04",
+      "setup_content": "陆鸣遗书提到‘我爱上了一个不该存在的版本’",
+      "payoff_episode": "E07-S06",
+      "payoff_scene": "E07-S06",
+      "payoff_description": "管理员承认陆鸣复制了她，与遗书内容吻合。"
+    },
+    {
+      "episode_id": "E07",
+      "candidate_id": "S05",
+      "setup_content": "管理员影像承认陆鸣复制了她，现实中的许若安可能还活着",
+      "payoff_episode": "E07-S08",
+      "payoff_scene": "E07-S08",
+      "payoff_description": "许若清接到姐姐电话，确认许若安存活。"
+    },
+    {
+      "episode_id": "E07",
+      "candidate_id": "S06",
+      "setup_content": "废弃候船楼发现空箱子和血迹，许若清接到姐姐真人电话",
+      "payoff_episode": "E08-S01",
+      "payoff_scene": "E08-S01",
+      "payoff_description": "姐妹重逢，许若安出现。"
+    },
+    {
+      "episode_id": "E08",
+      "candidate_id": "S01",
+      "setup_content": "许若安并未死亡，而是躲藏在鹿岛旧疗养院",
+      "payoff_episode": "E08-S02",
+      "payoff_scene": "E08-S02",
+      "payoff_description": "许若安讲述两年前冲突和逃离经过，解释她为何存活。"
+    },
+    {
+      "episode_id": "E08",
+      "candidate_id": "S02",
+      "setup_content": "管理员影像出现在删除确认界面",
+      "payoff_episode": "E08-S06",
+      "payoff_scene": "E08-S06",
+      "payoff_description": "管理员确认删除，离线。"
+    },
+    {
+      "episode_id": "E08",
+      "candidate_id": "S03",
+      "setup_content": "许若清关掉手机录音功能，不再记录日常",
+      "payoff_episode": "E08-S08",
+      "payoff_scene": "E08-S08",
+      "payoff_description": "新的开始，许若清放下过去。"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S01",
+    "info_content": "系统弹出证人二碎片信息，确定赵岚为证人二",
+    "info_type": "线索",
+    "audience_knowledge": "已知证人系统存在，但具体名单未知",
+    "character_knowledge": "许若清、顾峥得知证人二是赵岚",
+    "understanding_change": "明确了下一个调查目标",
+    "triggers_action": true,
+    "later_usage_position": "后续调查赵岚相关场景"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S02",
+    "info_content": "赵岚车祸去世，女儿不说话",
+    "info_type": "背景",
+    "audience_knowledge": "知道赵岚是证人二，但不知已死",
+    "character_knowledge": "许若清、顾峥得知赵岚死亡",
+    "understanding_change": "线索中断，产生新疑点",
+    "triggers_action": true,
+    "later_usage_position": "引导至小禾"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S03",
+    "info_content": "小禾说手机里的妈妈让她不要相信会笑的叔叔",
+    "info_type": "线索",
+    "audience_knowledge": "知道赵岚有手机中留信息",
+    "character_knowledge": "许若清、顾峥得知存在‘会笑的叔叔’",
+    "understanding_change": "意识到手机AI可能指认某人",
+    "triggers_action": true,
+    "later_usage_position": "指向潜在嫌疑人"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S04",
+    "info_content": "唐微汇报许若清恢复管理员入口，孟远舟认为日志不能证明犯罪",
+    "info_type": "背景",
+    "audience_knowledge": "知道许若清在调查，但不知恢复入口",
+    "character_knowledge": "唐微、孟远舟知道此事",
+    "understanding_change": "显示孟远舟对证据的态度，唐微出现迟疑",
+    "triggers_action": false,
+    "later_usage_position": ""
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S05",
+    "info_content": "赵岚母亲给出云盘账号，手机里的女儿问关于红色车",
+    "info_type": "线索",
+    "audience_knowledge": "知道赵岚有云盘，但不知内容",
+    "character_knowledge": "许若清得到云盘账号，得知红色车问题",
+    "understanding_change": "获得新调查方向（红色车）",
+    "triggers_action": true,
+    "later_usage_position": "后续打开云盘"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S06",
+    "info_content": "云盘中有‘高价值痛苦语料’分类，倒计时归零但备份自动触发",
+    "info_type": "线索",
+    "audience_knowledge": "知道云盘存在，但不知具体分类",
+    "character_knowledge": "许若清、顾峥发现语料分类和备份机制",
+    "understanding_change": "理解底层数据有备份，倒计时失效",
+    "triggers_action": true,
+    "later_usage_position": "导致查看视频"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S07",
+    "info_content": "视频显示许若安失踪当晚众人（许若安、陆鸣、赵岚、唐微、孟远舟）对峙",
+    "info_type": "真相",
+    "audience_knowledge": "知道失踪案，但不知具体经过",
+    "character_knowledge": "许若清、顾峥看到事件经过",
+    "understanding_change": "获知失踪当晚的关键场景",
+    "triggers_action": true,
+    "later_usage_position": "后续作为证据"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S08",
+    "info_content": "唐微递出保险单，受益人为许若安",
+    "info_type": "线索",
+    "audience_knowledge": "知道唐微之前迟疑，但不知保险单",
+    "character_knowledge": "许若清、顾峥得知保险单受益人",
+    "understanding_change": "唐微提供新证据，可能站在许若清一边",
+    "triggers_action": true,
+    "later_usage_position": "后续调查证据链"
+  }
+]

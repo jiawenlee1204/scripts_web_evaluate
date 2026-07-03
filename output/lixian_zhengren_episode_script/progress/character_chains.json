@@ -1,0 +1,543 @@
+{
+  "许若清": [
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S01",
+      "action": "在内测后台发现已注销两年的姐姐账号登录"
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S02",
+      "action": "收到姐姐发来的语音，警告她不要相信今晚上线的数据"
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S03",
+      "action": "从陆鸣处获得移动硬盘"
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S04",
+      "action": "追上天台，陆鸣坠楼"
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S05",
+      "action": "接受顾峥询问，说出姐姐语音但记录消失"
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S06",
+      "action": "出席危机会议，确认公司知情"
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S07",
+      "action": "尝试解锁硬盘，播放姐姐旧手机录音"
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S08",
+      "action": "收到陌生账号定位和语音，看到戴口罩男人"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S01",
+      "action": "进入旧楼"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S02",
+      "action": "发现访谈表和录音"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S04",
+      "action": "质问逝者回声功能"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S05",
+      "action": "得到周望内部信息"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S06",
+      "action": "找到江白磁带，遇到戴口罩男人"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S07",
+      "action": "被推倒后获得照片"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S08",
+      "action": "解锁硬盘，发现十三个音频文件"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S01",
+      "action": "播放十三段音频"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S02",
+      "action": "找到江白出租屋并发现警告"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S04",
+      "action": "听完发布会视频后离开"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S05",
+      "action": "与江白会面，得知姐姐成为权限"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S06",
+      "action": "获取姐姐录音"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S07",
+      "action": "与顾峥交换信息但隐瞒录音笔"
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S02",
+      "action": "拒绝签署保密协议，权限被暂停"
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S04",
+      "action": "找到姐姐伦理限制文档"
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S05",
+      "action": "与江白会面了解系统自我演进"
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S06",
+      "action": "录音孟远舟商业模型"
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S07",
+      "action": "通过二次验证获得管理员权限"
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S08",
+      "action": "查看管理员日志，触发警告倒计时"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S01",
+      "action": "查看证人二碎片信息"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S02",
+      "action": "前往旧址，得知赵岚死亡"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S03",
+      "action": "询问小禾"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S05",
+      "action": "与赵岚母亲交谈，获得云盘账号"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S06",
+      "action": "打开云盘，发现语料分类和备份"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S07",
+      "action": "播放视频，看到失踪当晚对峙"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S08",
+      "action": "接收唐微保险单"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S01",
+      "action": "听取唐微坦白"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S03",
+      "action": "在唐微公寓了解管理员规则"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S05",
+      "action": "听取周望动机"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S06",
+      "action": "决定播放原始音频"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S07",
+      "action": "切换音频，播放原始证词"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S08",
+      "action": "与孟远舟争执，看到许若安影像"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S01",
+      "action": "追踪影像来源，确认管理员引导"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S02",
+      "action": "发现陆鸣实验报告"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S04",
+      "action": "与周望会面，得知陆鸣替罪方案"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S06",
+      "action": "与管理员的影像对话，得知陆鸣复制"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S07",
+      "action": "询问保安，找到废弃候船楼"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S08",
+      "action": "发现血迹和空箱，接到姐姐电话"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S01",
+      "action": "与许若安重逢"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S02",
+      "action": "听取许若安讲述真相"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S05",
+      "action": "讨论删除数字副本"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S06",
+      "action": "按确认删除管理员"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S08",
+      "action": "关机，不再录音"
+    }
+  ],
+  "陆鸣": [
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S03",
+      "action": "将移动硬盘交给许若清并提及'离线证人'"
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S04",
+      "action": "坠楼身亡"
+    }
+  ],
+  "顾峥": [
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S05",
+      "action": "询问许若清"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S03",
+      "action": "发现天台监控被远程冻结"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S03",
+      "action": "发现陆鸣举报信草稿"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S07",
+      "action": "与许若清交换信息"
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S03",
+      "action": "接受上级要求降低调查强度"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S01",
+      "action": "与许若清一起查看证人信息"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S02",
+      "action": "陪同许若清前往旧址"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S03",
+      "action": "询问小禾"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S06",
+      "action": "协助查看云盘"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S07",
+      "action": "观看视频"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S08",
+      "action": "见证唐微提供保险单"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S01",
+      "action": "听取唐微坦白"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S04",
+      "action": "发现门禁记录，周望成嫌疑人"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S03",
+      "action": "发现陆鸣创建管理员权限"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S05",
+      "action": "与陆妻交谈，得知遗书"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S07",
+      "action": "陪同许若清询问保安"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S08",
+      "action": "陪同找到候船楼"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S03",
+      "action": "确认许若安愿意出庭"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S04",
+      "action": "出示证据链，控制孟远舟"
+    }
+  ],
+  "周望": [
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S01",
+      "action": "与许若清在内测后台"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S04",
+      "action": "递便签提醒许若清"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S05",
+      "action": "告诉许若清内部信息"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S01",
+      "action": "判断音频为人格残留"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S08",
+      "action": "潜入训练室被困"
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S01",
+      "action": "意识到系统监听非上传内容"
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S02",
+      "action": "被停职"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S05",
+      "action": "承认去过天台，为删除母亲回声"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S04",
+      "action": "指证陆鸣策划替罪"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S07",
+      "action": "卸载母亲回声"
+    }
+  ],
+  "江白": [
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S05",
+      "action": "警告许若清姐姐成为权限"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S06",
+      "action": "播放许若安录音"
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S05",
+      "action": "透露管理员机制和系统主动制造证词"
+    }
+  ],
+  "唐微": [
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S06",
+      "action": "出席危机会议"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S04",
+      "action": "在场"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S04",
+      "action": "向孟远舟汇报"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S08",
+      "action": "递出保险单"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S01",
+      "action": "承认协助许若安"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S03",
+      "action": "展示备忘录"
+    }
+  ],
+  "孟远舟": [
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S06",
+      "action": "否认离线证人项目"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S04",
+      "action": "在场"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S04",
+      "action": "录制发布会视频"
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S06",
+      "action": "向投资人展示商业模型"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S04",
+      "action": "认为日志不能证明犯罪"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S02",
+      "action": "准备发布会"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S08",
+      "action": "与许若清争执"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S04",
+      "action": "被带到机房"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S07",
+      "action": "被带走"
+    }
+  ],
+  "许若安": [
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S07",
+      "action": "出现在视频中（两年前）"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S01",
+      "action": "与许若清重逢"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S02",
+      "action": "讲述经过"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S03",
+      "action": "同意出庭"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S05",
+      "action": "选择让系统结束"
+    }
+  ]
+}

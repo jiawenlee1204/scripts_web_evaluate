@@ -1,0 +1,97 @@
+[
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S01",
+    "function_tags": [
+      "PLOT",
+      "CLUE"
+    ],
+    "function_explanation": "揭示系统能监听未上传内容，引发对系统真实能力的怀疑",
+    "state_change": "意识到系统在监听非上传内容",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S02",
+    "function_tags": [
+      "PLOT",
+      "CONFLICT",
+      "CHARACTER"
+    ],
+    "function_explanation": "周望被停职激化矛盾，许若清拒绝协议凸显其原则性",
+    "state_change": "许若清权限被暂停",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S03",
+    "function_tags": [
+      "PLOT",
+      "CONFLICT"
+    ],
+    "function_explanation": "上级施压限制调查，增加外部阻力",
+    "state_change": "调查受阻",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S04",
+    "function_tags": [
+      "PLOT",
+      "CLUE",
+      "CHARACTER"
+    ],
+    "function_explanation": "许若清发现姐姐遗留的伦理规则文档，提供关键线索并深化角色背景",
+    "state_change": "发现姐姐设计的规则",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S05",
+    "function_tags": [
+      "PLOT",
+      "CLUE",
+      "WORLD"
+    ],
+    "function_explanation": "江白揭示管理员机制和系统自我演进，扩展世界观并推进剧情",
+    "state_change": "了解系统自我演进",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S06",
+    "function_tags": [
+      "PLOT",
+      "CONFLICT",
+      "CHARACTER"
+    ],
+    "function_explanation": "孟远舟向投资人展示商业模型并录音，暴露其意图并积累证据",
+    "state_change": "获得孟远舟可控言论证据",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S07",
+    "function_tags": [
+      "PLOT",
+      "CLUE",
+      "CHARACTER"
+    ],
+    "function_explanation": "许若清通过二次验证获得管理员权限，系统误认为若安，揭示身份关联",
+    "state_change": "获得管理员权限",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S08",
+    "function_tags": [
+      "PLOT",
+      "EMOTION",
+      "THEME",
+      "CLUE"
+    ],
+    "function_explanation": "得知姐姐主动离线原因和倒计时开启，情绪冲击强烈并深化科技伦理主题",
+    "state_change": "得知姐姐主动离线原因，倒计时开始",
+    "suspected_functionless": false
+  }
+]

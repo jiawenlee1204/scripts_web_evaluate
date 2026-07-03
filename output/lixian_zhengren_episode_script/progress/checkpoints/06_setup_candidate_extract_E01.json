@@ -1,0 +1,74 @@
+[
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S01",
+    "candidate_id": "S01",
+    "setup_content": "已注销两年的姐姐账号突然登录",
+    "surface_meaning_at_first": "系统可能被入侵或出现故障",
+    "possible_future_function": "揭示姐姐的意识或数据被保留在系统中",
+    "evidence": "账号 A-000817 已登录。"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S02",
+    "candidate_id": "S02",
+    "setup_content": "姐姐发来语音，警告不要相信今晚的数据",
+    "surface_meaning_at_first": "姐姐可能还活着或有人冒充",
+    "possible_future_function": "暗示数据被篡改，姐姐的数字化存在真实",
+    "evidence": "不要相信今晚上线的数据"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S03",
+    "candidate_id": "S03",
+    "setup_content": "陆鸣将移动硬盘交给许若清并提及'离线证人'",
+    "surface_meaning_at_first": "硬盘内含有重要证据",
+    "possible_future_function": "硬盘是解开真相的关键，'离线证人'是项目名称或核心概念",
+    "evidence": "移动硬盘和'离线证人'"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S04",
+    "candidate_id": "S04",
+    "setup_content": "陆鸣说姐姐被留在系统里",
+    "surface_meaning_at_first": "姐姐的意识可能被数字化保存",
+    "possible_future_function": "确认姐姐的数字化存在，引出科技伦理主题",
+    "evidence": "姐姐被留在系统里"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S05",
+    "candidate_id": "S05",
+    "setup_content": "姐姐的语音记录被系统撤回消失",
+    "surface_meaning_at_first": "系统有删除记录的能力",
+    "possible_future_function": "暗示系统被操控，证据销毁，增加谜团",
+    "evidence": "语音记录已消失"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S06",
+    "candidate_id": "S06",
+    "setup_content": "孟远舟否认离线证人项目，但许若清发现所有人都知道姐姐",
+    "surface_meaning_at_first": "公司隐瞒了项目，内部知情",
+    "possible_future_function": "揭示公司高层掩盖真相，形成对立",
+    "evidence": "所有人都知道姐姐"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S07",
+    "candidate_id": "S07",
+    "setup_content": "硬盘密码提示需要第一条遗言，播放姐姐旧手机录音",
+    "surface_meaning_at_first": "需要特定密码才能打开硬盘",
+    "possible_future_function": "姐姐的遗言是关键线索，可能涉及情感或秘密",
+    "evidence": "第一条遗言"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S08",
+    "candidate_id": "S08",
+    "setup_content": "陌生账号发送定位和语音，戴口罩男人用姐姐旧手机壳",
+    "surface_meaning_at_first": "有人知道姐姐的事情并引导许若清",
+    "possible_future_function": "引出新地点和人物，推动主线",
+    "evidence": "港湾精神康复中心旧楼，第一个证人醒了"
+  }
+]

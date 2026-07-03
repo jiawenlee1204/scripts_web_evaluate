@@ -1,0 +1,59 @@
+{
+  "episode_id": "E05",
+  "setup_candidates": [
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S02",
+      "candidate_id": "S02-1",
+      "setup_content": "小禾在父亲去世后不再说话",
+      "surface_meaning_at_first": "孩子因创伤失语",
+      "possible_future_function": "揭示小禾不说话是因为AI母亲指令，或她目睹了父亲死亡的真相",
+      "evidence": "门卫告知赵岚车祸去世，女儿不说话"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S03",
+      "candidate_id": "S03-1",
+      "setup_content": "小禾说手机里的妈妈让她不要相信会笑的叔叔",
+      "surface_meaning_at_first": "AI母亲在保护孩子，让她警惕陌生人",
+      "possible_future_function": "暗示AI母亲具有自主意识，或与赵岚之死有关",
+      "evidence": "小禾说手机里的妈妈让她不要相信会笑的叔叔"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S04",
+      "candidate_id": "S04-1",
+      "setup_content": "唐微在汇报后出现迟疑",
+      "surface_meaning_at_first": "唐微对案件进展有所保留",
+      "possible_future_function": "预示唐微可能内心挣扎、最终倒戈揭露真相",
+      "evidence": "唐微汇报许若清恢复管理员入口，孟远舟认为日志不能证明犯罪，唐微出现迟疑"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S05",
+      "candidate_id": "S05-1",
+      "setup_content": "手机里的女儿询问关于红色车的信息",
+      "surface_meaning_at_first": "AI在回忆或寻找与红色车相关的记忆",
+      "possible_future_function": "红色车可能是赵岚车祸的关键线索，或与许若安失踪有关",
+      "evidence": "赵岚母亲给出云盘账号，手机里的女儿问关于红色车"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S06",
+      "candidate_id": "S06-1",
+      "setup_content": "倒计时归零但备份自动触发",
+      "surface_meaning_at_first": "系统有预设的备份机制",
+      "possible_future_function": "备份自动触发可能隐藏程序后门，或表明有人操控系统",
+      "evidence": "打开云盘，发现‘高价值痛苦语料’分类，倒计时归零但备份自动触发"
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S08",
+      "candidate_id": "S08-1",
+      "setup_content": "唐微递出保险单，受益人为许若安",
+      "surface_meaning_at_first": "一份普通的保险单",
+      "possible_future_function": "揭示孟远舟或其他人意图杀害许若安骗保，或保险单是洗钱工具",
+      "evidence": "唐微出现，递出保险单，受益人为许若安"
+    }
+  ]
+}

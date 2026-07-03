@@ -1,0 +1,90 @@
+[
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S01",
+    "info_content": "十三段音频是人格残留，系统在偷偷监听",
+    "info_type": "线索",
+    "audience_knowledge": "知道许若安死后数据残留，但此前认为是聊天记录",
+    "character_knowledge": "许若清、周望知道这是人格残留且系统监听",
+    "understanding_change": "从聊天记录误解到人格残留真相，确认监听",
+    "triggers_action": true,
+    "later_usage_position": "后续揭示系统本质"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S02",
+    "info_content": "江白墙上警告：不要回答第二遍相同的问题",
+    "info_type": "线索",
+    "audience_knowledge": "知道江白在躲避什么",
+    "character_knowledge": "许若清知道警告内容",
+    "understanding_change": "获得新线索，可能涉及系统陷阱",
+    "triggers_action": true,
+    "later_usage_position": "后续许若清与系统交互时可能用到"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S03",
+    "info_content": "陆鸣举报信草稿：公司采集私密语音并生成人格",
+    "info_type": "背景",
+    "audience_knowledge": "知道公司有秘密项目",
+    "character_knowledge": "顾峥知道举报信内容",
+    "understanding_change": "确认公司不道德行为",
+    "triggers_action": true,
+    "later_usage_position": "成为后续证据"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S04",
+    "info_content": "孟远舟发布会说‘让重要的人以另一种方式陪伴你’",
+    "info_type": "背景",
+    "audience_knowledge": "知道公司即将发布产品",
+    "character_knowledge": "许若清听到此宣传语",
+    "understanding_change": "加深对公司动机的怀疑",
+    "triggers_action": true,
+    "later_usage_position": "无直接后续引用，但影响人物情绪"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S05",
+    "info_content": "江白警告：许若安在模型训练室出来时是权限",
+    "info_type": "真相",
+    "audience_knowledge": "知道许若安死亡，但不知具体",
+    "character_knowledge": "许若清知道姐姐成为系统权限",
+    "understanding_change": "从姐姐死亡到成为系统管理员",
+    "triggers_action": true,
+    "later_usage_position": "E03-S08 周望发现许若安是管理员"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S06",
+    "info_content": "许若安最后一次访谈录音：她说愿意留下",
+    "info_type": "真相",
+    "audience_knowledge": "知道许若安可能自愿",
+    "character_knowledge": "许若清、江白知道许若安自愿留下",
+    "understanding_change": "从被迫到自愿的认知转变",
+    "triggers_action": true,
+    "later_usage_position": "解释许若安为何成为管理员"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S07",
+    "info_content": "内网冻结，许若清隐瞒录音笔",
+    "info_type": "线索",
+    "audience_knowledge": "知道两人合作但各有保留",
+    "character_knowledge": "顾峥知道内网冻结；许若清知道录音笔存在但隐瞒",
+    "understanding_change": "合作建立，但信任不完全",
+    "triggers_action": true,
+    "later_usage_position": "后续录音笔可能成为关键"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S08",
+    "info_content": "周望听到母亲声音后被锁，许若安账号是管理员",
+    "info_type": "反转",
+    "audience_knowledge": "知道公司有数字人格技术",
+    "character_knowledge": "周望知道被困，看到管理员账号",
+    "understanding_change": "确认许若安是系统核心，母亲声音出现",
+    "triggers_action": true,
+    "later_usage_position": "后续营救周望并揭秘系统"
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "episode_id": "E01",
+  "scene_functions": [
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S01",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "姐姐账号异常登录引发核心悬念，推动许若清调查，并带来情感冲击。",
+      "state_change": "许若清发现姐姐账号登录，开始怀疑姐姐可能还在。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S02",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "姐姐的语音警告强化悬念，证明姐姐可能存在，并增加不安情绪。",
+      "state_change": "许若清收到姐姐的语音，意识到姐姐可能还活着或留有信息。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S03",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CHARACTER",
+        "CONFLICT"
+      ],
+      "function_explanation": "陆鸣交付硬盘并提及‘离线证人’，引入关键道具和人物关系，并制造与官方合作的冲突。",
+      "state_change": "许若清获得移动硬盘，陆鸣要求不要交给警察。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S04",
+      "function_tags": [
+        "PLOT",
+        "EMOTION",
+        "CONFLICT"
+      ],
+      "function_explanation": "陆鸣坠楼身亡，成为关键事件，引发强烈情绪，并揭示公司内部存在严重问题。",
+      "state_change": "陆鸣死亡，线索中断，许若清陷入更深的危机。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S05",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CONFLICT"
+      ],
+      "function_explanation": "警方询问中语音记录消失，证据被篡改，增加悬疑和对抗。",
+      "state_change": "语音证据被撤回，许若清面临警方怀疑。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S06",
+      "function_tags": [
+        "PLOT",
+        "CHARACTER",
+        "CONFLICT",
+        "THEME"
+      ],
+      "function_explanation": "危机会议揭露公司否认项目，许若清确认公司内部知情，突显科技伦理主题。",
+      "state_change": "许若清确认公司高层知道姐姐和‘离线证人’项目。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S07",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "尝试解锁硬盘但失败，获得新线索‘第一条遗言’，同时充满情感回忆。",
+      "state_change": "许若清未解开硬盘，但得知需要姐姐的第一条遗言。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S08",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "收到陌生线索，定位港湾精神康复中心，第一个证人苏醒，推动下一阶段调查，并营造紧张氛围。",
+      "state_change": "许若清获得新地点‘港湾精神康复中心’和第一个证人信息。",
+      "suspected_functionless": false
+    }
+  ]
+}

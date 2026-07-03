@@ -1,0 +1,99 @@
+{
+  "episode_id": "E08",
+  "scene_functions": [
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S01",
+      "function_tags": [
+        "CHARACTER",
+        "EMOTION",
+        "PLOT"
+      ],
+      "function_explanation": "姐妹重逢，许若安道歉，确认其存活，建立情感纽带",
+      "state_change": "确认许若安活着",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S02",
+      "function_tags": [
+        "CLUE",
+        "PLOT"
+      ],
+      "function_explanation": "许若安讲述两年前冲突和逃离经过，揭示真相",
+      "state_change": "了解真相",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S03",
+      "function_tags": [
+        "PLOT",
+        "CONFLICT"
+      ],
+      "function_explanation": "顾峥确认许若安愿意出庭，但需要证据，推动法律线",
+      "state_change": "证人愿意出庭",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S04",
+      "function_tags": [
+        "PLOT",
+        "CONFLICT",
+        "PAYOFF"
+      ],
+      "function_explanation": "孟远舟被带到机房，顾峥出示证据链，对峙并控制反派",
+      "state_change": "孟远舟被控制",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S05",
+      "function_tags": [
+        "THEME",
+        "EMOTION",
+        "PLOT"
+      ],
+      "function_explanation": "姐妹讨论是否删除数字副本，许若安选择让系统结束，伦理抉择与情感高潮",
+      "state_change": "决定删除",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S06",
+      "function_tags": [
+        "PLOT",
+        "PAYOFF"
+      ],
+      "function_explanation": "管理员确认删除，许若清按确认，执行删除操作",
+      "state_change": "管理员离线",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S07",
+      "function_tags": [
+        "PLOT",
+        "PAYOFF",
+        "TRANSITION"
+      ],
+      "function_explanation": "孟远舟被带走，周望卸载母亲回声，案件结束，转向尾声",
+      "state_change": "案件结束",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S08",
+      "function_tags": [
+        "THEME",
+        "CHARACTER",
+        "EMOTION",
+        "PAYOFF"
+      ],
+      "function_explanation": "姐妹海边对话，许若清关机不再录音，主题升华，人物成长，新的开始",
+      "state_change": "新的开始",
+      "suspected_functionless": false
+    }
+  ]
+}

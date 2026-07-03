@@ -1,0 +1,101 @@
+[
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S01",
+    "character_name": "许若清",
+    "action": "进入旧楼，发现撬开的门锁和褪色标语",
+    "motivation_evidence": "主动进入旧楼探索",
+    "consequence": "发现旧楼线索",
+    "cost_or_risk": "无",
+    "change_after_action": "获得旧楼线索",
+    "relationship_impact": "无"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S02",
+    "character_name": "许若清",
+    "action": "发现访谈表，录音机自动播放陌生男声提及妹妹和证据",
+    "motivation_evidence": "继续深入调查",
+    "consequence": "发现江白名字和录音线索",
+    "cost_or_risk": "无",
+    "change_after_action": "获得江白及录音线索",
+    "relationship_impact": "无"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S03",
+    "character_name": "顾峥",
+    "action": "发现天台监控被远程冻结七分钟",
+    "motivation_evidence": "调查案件需要",
+    "consequence": "确认监控被篡改",
+    "cost_or_risk": "无",
+    "change_after_action": "确认监控被篡改",
+    "relationship_impact": "无"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S04",
+    "character_name": "许若清",
+    "action": "在产品评审室质问逝者回声功能",
+    "motivation_evidence": "追求真相，质疑公司",
+    "consequence": "发现公司隐瞒信息",
+    "cost_or_risk": "可能引起公司怀疑",
+    "change_after_action": "发现公司隐瞒",
+    "relationship_impact": "与周望产生合作倾向"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S04",
+    "character_name": "周望",
+    "action": "递便签提醒许若清别在此处提问",
+    "motivation_evidence": "保护许若清免于麻烦",
+    "consequence": "许若清获得提示",
+    "cost_or_risk": "可能暴露自己",
+    "change_after_action": "许若清意识到处境",
+    "relationship_impact": "与许若清建立初步信任"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S05",
+    "character_name": "周望",
+    "action": "告诉许若清陆鸣删除请求被驳回，原因'证人保护'，并因母亲被生成而帮她",
+    "motivation_evidence": "同情许若清，自己母亲被生成",
+    "consequence": "许若清获得内部信息",
+    "cost_or_risk": "周望可能承担风险",
+    "change_after_action": "许若清获得内部信息",
+    "relationship_impact": "周望与许若清建立信任合作关系"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S06",
+    "character_name": "许若清",
+    "action": "找到江白磁带，遇到拿另一盒磁带的男人，认出其手机壳",
+    "motivation_evidence": "继续寻找证据",
+    "consequence": "发现另一盒磁带和跟踪者",
+    "cost_or_risk": "被跟踪危险",
+    "change_after_action": "发现跟踪者存在",
+    "relationship_impact": "与戴口罩的男人形成对立"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S07",
+    "character_name": "许若清",
+    "action": "被男人推倒后获得塞进的照片，照片显示许若安与陆鸣、孟远舟在一起",
+    "motivation_evidence": "被动接受",
+    "consequence": "获知新线索照片",
+    "cost_or_risk": "被袭击受伤",
+    "change_after_action": "获得照片线索",
+    "relationship_impact": "与戴口罩的男人敌对加剧"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S08",
+    "character_name": "许若清",
+    "action": "播放江白音频，硬盘密码被自动填入'我还没死'",
+    "motivation_evidence": "继续调查",
+    "consequence": "硬盘解锁，发现十三个音频文件",
+    "cost_or_risk": "无",
+    "change_after_action": "硬盘解锁获得大量音频",
+    "relationship_impact": "无"
+  }
+]

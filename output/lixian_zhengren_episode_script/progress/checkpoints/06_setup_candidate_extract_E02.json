@@ -1,0 +1,74 @@
+[
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S01",
+    "candidate_id": "S01",
+    "setup_content": "旧楼锁被撬，门上褪色标语",
+    "surface_meaning_at_first": "废旧楼宇被非法闯入，标语是历史遗迹",
+    "possible_future_function": "暗示旧楼可能藏有秘密，标语内容可能与案件主题相关",
+    "evidence": "发现撬开的门锁和褪色标语"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S02",
+    "candidate_id": "S02",
+    "setup_content": "录音机自动播放陌生男声，提及‘妹妹’和‘证据’",
+    "surface_meaning_at_first": "可能是之前病人的录音，留下遗言",
+    "possible_future_function": "男声身份（可能是陆鸣）及其提到的证据成为核心线索",
+    "evidence": "录音机自动播放陌生男声提及妹妹和证据"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S03",
+    "candidate_id": "S03",
+    "setup_content": "天台监控被远程冻结七分钟",
+    "surface_meaning_at_first": "监控故障或系统问题",
+    "possible_future_function": "证明有人为干预，可能隐藏关键时段的活动",
+    "evidence": "顾峥发现天台监控被远程冻结七分钟"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S04",
+    "candidate_id": "S04",
+    "setup_content": "许若清质问逝者回声功能，周望递便签提醒她别在此处提问",
+    "surface_meaning_at_first": "周望怕引起注意，公司内部有禁忌",
+    "possible_future_function": "暗示公司内部有秘密，周望可能是知情者或盟友",
+    "evidence": "周望递便签提醒她别在此处提问"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S05",
+    "candidate_id": "S05",
+    "setup_content": "陆鸣删除请求被驳回，原因‘证人保护’",
+    "surface_meaning_at_first": "陆鸣的数据被特殊保护，说明他涉及案件",
+    "possible_future_function": "陆鸣可能是关键证人，他的数据隐藏真相",
+    "evidence": "周望告诉许若清陆鸣删除请求被驳回，原因‘证人保护’"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S06",
+    "candidate_id": "S06",
+    "setup_content": "许若清找到江白磁带，遇到戴口罩男人，认出其手机壳",
+    "surface_meaning_at_first": "另一盒磁带出现，戴口罩男人身份可疑",
+    "possible_future_function": "手机壳可能帮助识别跟踪者，磁带内容可能与案件直接相关",
+    "evidence": "找到江白磁带，遇到拿另一盒磁带的男人，认出其手机壳"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S07",
+    "candidate_id": "S07",
+    "setup_content": "男人塞给许若清照片，显示许若安与陆鸣、孟远舟在一起",
+    "surface_meaning_at_first": "许若安与同事私下交往",
+    "possible_future_function": "揭示人物关系，可能许若安与案件有牵扯",
+    "evidence": "照片显示许若安与陆鸣、孟远舟在一起"
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S08",
+    "candidate_id": "S08",
+    "setup_content": "硬盘密码自动填入‘我还没死’",
+    "surface_meaning_at_first": "密码提示使用者还活着",
+    "possible_future_function": "暗示江白或某人未死，硬盘内容包含关键证据",
+    "evidence": "硬盘密码被自动填入‘我还没死’"
+  }
+]

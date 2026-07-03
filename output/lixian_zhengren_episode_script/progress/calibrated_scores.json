@@ -1,0 +1,81 @@
+{
+  "calibrated_scores": [
+    {
+      "dimension": "D1",
+      "dimension_name": "悬疑信息控制",
+      "weight": 20,
+      "score_a": 3.5,
+      "score_b": 3.5,
+      "difference": 0.0,
+      "status": "通过",
+      "final_score": 3.5,
+      "arbitration_reason": "两轮评分一致，且围绕未完全回收的伏笔（口罩男）和密码来源问题，评分合理，采用3.5。"
+    },
+    {
+      "dimension": "D2",
+      "dimension_name": "人物行动链",
+      "weight": 20,
+      "score_a": 4.0,
+      "score_b": 4.0,
+      "difference": 0.0,
+      "status": "通过",
+      "final_score": 4.0,
+      "arbitration_reason": "两轮评分一致，人物行动链完整，小幅扣分点不影响整体，采用4.0。"
+    },
+    {
+      "dimension": "D3",
+      "dimension_name": "分集结构与节奏推进",
+      "weight": 20,
+      "score_a": 3.5,
+      "score_b": 4.3,
+      "difference": 0.8,
+      "status": "需仲裁",
+      "final_score": 3.5,
+      "arbitration_reason": "差异超过0.5，Round A指出了明确的结构问题（密码巧合、信息冗余、过载），Round B的较高分未充分回应这些具体问题，且核心维度优先考虑较低分，故采用3.5。"
+    },
+    {
+      "dimension": "D4",
+      "dimension_name": "情节因果与逻辑可信度",
+      "weight": 15,
+      "score_a": 3.5,
+      "score_b": 3.8,
+      "difference": 0.3,
+      "status": "通过",
+      "final_score": 3.5,
+      "arbitration_reason": "差异未超阈值，但核心维度存在未解释关键线索（口罩男动机、密码来源），保守采用较低分3.5。"
+    },
+    {
+      "dimension": "D5",
+      "dimension_name": "场景戏剧张力与有效密度",
+      "weight": 10,
+      "score_a": 3.5,
+      "score_b": 3.8,
+      "difference": 0.3,
+      "status": "通过",
+      "final_score": 3.5,
+      "arbitration_reason": "两轮差异不大，但Round A指出的说明性场景和逻辑漏洞更为具体，保守采用3.5。"
+    },
+    {
+      "dimension": "D6",
+      "dimension_name": "主题表达与现实质感",
+      "weight": 10,
+      "score_a": 4.0,
+      "score_b": 3.8,
+      "difference": 0.2,
+      "status": "通过",
+      "final_score": 3.8,
+      "arbitration_reason": "两轮差异较小，但Round B对逻辑细节扣分更严格，保守采用较低分3.8。"
+    },
+    {
+      "dimension": "D7",
+      "dimension_name": "结尾回收与整体完成度",
+      "weight": 5,
+      "score_a": 4.2,
+      "score_b": 4.2,
+      "difference": 0.0,
+      "status": "通过",
+      "final_score": 4.2,
+      "arbitration_reason": "两轮评分一致，结尾回收完整，采用4.2。"
+    }
+  ]
+}

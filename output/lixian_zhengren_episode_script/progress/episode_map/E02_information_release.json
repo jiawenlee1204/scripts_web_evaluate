@@ -1,0 +1,93 @@
+{
+  "episode_id": "E02",
+  "information_release": [
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S01",
+      "info_content": "旧楼门锁被撬，墙上标语'记忆永生，逝者归来'褪色",
+      "info_type": "线索",
+      "audience_knowledge": "许若清寻找妹妹，得知旧楼可能有线索",
+      "character_knowledge": "许若清发现门锁被撬，标语褪色",
+      "understanding_change": "之前不知旧楼状态，现知有人来过或藏有秘密",
+      "triggers_action": true,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S02",
+      "info_content": "发现江白的访谈表，录音机自动播放陌生男声：'若安，证据我放在档案室了，别让他们发现'",
+      "info_type": "线索",
+      "audience_knowledge": "许若清发现妹妹相关线索",
+      "character_knowledge": "许若清听到录音提及'若安'和'证据'",
+      "understanding_change": "之前不知江白和证据，现知江白与妹妹有关，证据在档案室",
+      "triggers_action": true,
+      "later_usage_position": "E02-S06"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S03",
+      "info_content": "天台监控被远程冻结七分钟，期间缺失",
+      "info_type": "线索",
+      "audience_knowledge": "顾峥调查事件，发现监控异常",
+      "character_knowledge": "顾峥确认监控被篡改",
+      "understanding_change": "之前不确定监控是否完整，现确认有人为破坏",
+      "triggers_action": false,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S04",
+      "info_content": "许若清质问逝者回声功能，周望递便签暗示不要在此提问",
+      "info_type": "背景",
+      "audience_knowledge": "公司对逝者回声功能有隐瞒",
+      "character_knowledge": "许若清意识到公司不愿公开讨论",
+      "understanding_change": "之前认为公司可能隐瞒，现确认内部有秘密",
+      "triggers_action": true,
+      "later_usage_position": "E02-S05"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S05",
+      "info_content": "陆鸣删除请求被驳回，原因是'证人保护'；周望因母亲被生成所以帮忙",
+      "info_type": "线索",
+      "audience_knowledge": "陆鸣曾试图删除请求，涉及证人保护；周望有私人动机",
+      "character_knowledge": "许若清得知陆鸣删除被驳，周望愿意帮忙",
+      "understanding_change": "之前不知陆鸣与证人保护有关，现知周望动机",
+      "triggers_action": true,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S06",
+      "info_content": "找到江白磁带，另一盒磁带被戴口罩男人拿走，许若清认出其手机壳",
+      "info_type": "线索",
+      "audience_knowledge": "存在两盒磁带，神秘人抢走一盒",
+      "character_knowledge": "许若清拿到一盒，另一盒被抢，认出手机壳",
+      "understanding_change": "之前不知磁带数量，现知有另一份证据被抢",
+      "triggers_action": true,
+      "later_usage_position": "E02-S07"
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S07",
+      "info_content": "口罩男塞给许若清照片，照片显示许若安与陆鸣、孟远舟在一起",
+      "info_type": "线索",
+      "audience_knowledge": "许若安与陆鸣、孟远舟有联系",
+      "character_knowledge": "许若清看到妹妹与两人合影",
+      "understanding_change": "之前不知妹妹认识陆鸣和孟远舟，现知三人有交集",
+      "triggers_action": true,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S08",
+      "info_content": "硬盘密码自动输入'我还没死'，成功解锁，内有13个音频文件",
+      "info_type": "线索",
+      "audience_knowledge": "硬盘有重要数据，密码暗示某人未死",
+      "character_knowledge": "许若清解锁硬盘，知道有13个音频",
+      "understanding_change": "之前不知硬盘密码，现知密码内容及音频数量",
+      "triggers_action": true,
+      "later_usage_position": ""
+    }
+  ]
+}

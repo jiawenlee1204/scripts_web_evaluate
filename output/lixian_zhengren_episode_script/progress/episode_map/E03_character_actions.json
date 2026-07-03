@@ -1,0 +1,104 @@
+{
+  "episode_id": "E03",
+  "character_actions": [
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S01",
+      "character_name": "许若清",
+      "action": "播放十三段音频",
+      "motivation_evidence": "调查姐姐失踪真相",
+      "consequence": "确认系统在偷偷监听",
+      "cost_or_risk": "无直接代价",
+      "change_after_action": "得知系统监听行为",
+      "relationship_impact": "与周望建立更紧密合作"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S02",
+      "character_name": "许若清",
+      "action": "找到江白出租屋并发现墙上警告",
+      "motivation_evidence": "追踪江白线索",
+      "consequence": "获得‘不要回答第二遍相同的问题’警告",
+      "cost_or_risk": "无",
+      "change_after_action": "获得新线索",
+      "relationship_impact": "对江白动机有更多了解"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S03",
+      "character_name": "顾峥",
+      "action": "发现陆鸣举报信草稿",
+      "motivation_evidence": "调查陆鸣死因",
+      "consequence": "获得举报信证据",
+      "cost_or_risk": "无",
+      "change_after_action": "掌握陆鸣举报内容",
+      "relationship_impact": "与陆妻有接触，但无直接关系变化"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S04",
+      "character_name": "许若清",
+      "action": "听完孟远舟发布会视频后离开",
+      "motivation_evidence": "对公司产生怀疑",
+      "consequence": "更加怀疑公司",
+      "cost_or_risk": "无",
+      "change_after_action": "加深怀疑",
+      "relationship_impact": "无"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S05",
+      "character_name": "江白",
+      "action": "警告许若清姐姐成为系统权限",
+      "motivation_evidence": "揭露真相或保护许若清",
+      "consequence": "许若清得知姐姐成为系统权限",
+      "cost_or_risk": "可能暴露自己",
+      "change_after_action": "无（江白），许若清获得关键信息",
+      "relationship_impact": "与许若清建立信任"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S06",
+      "character_name": "江白",
+      "action": "播放许若安最后一次访谈录音",
+      "motivation_evidence": "提供证据",
+      "consequence": "许若清获得姐姐录音",
+      "cost_or_risk": "无",
+      "change_after_action": "许若清获得录音",
+      "relationship_impact": "加深与许若清的信任"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S07",
+      "character_name": "顾峥",
+      "action": "与许若清交换信息",
+      "motivation_evidence": "合作调查",
+      "consequence": "确认内网冻结",
+      "cost_or_risk": "无",
+      "change_after_action": "获得信息",
+      "relationship_impact": "与许若清建立合作关系"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S07",
+      "character_name": "许若清",
+      "action": "向顾峥隐瞒录音笔存在",
+      "motivation_evidence": "保护自己或姐姐信息",
+      "consequence": "顾峥不知录音笔",
+      "cost_or_risk": "信任风险",
+      "change_after_action": "保持秘密",
+      "relationship_impact": "与顾峥不完全信任"
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S08",
+      "character_name": "周望",
+      "action": "潜入训练室拍照并听到母亲声音",
+      "motivation_evidence": "探索真相",
+      "consequence": "被困在室内，并发现许若安账号为管理员",
+      "cost_or_risk": "被困危险",
+      "change_after_action": "被困且获知许若安权限",
+      "relationship_impact": "无直接"
+    }
+  ]
+}

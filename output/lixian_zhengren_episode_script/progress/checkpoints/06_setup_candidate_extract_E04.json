@@ -1,0 +1,74 @@
+[
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S01",
+    "candidate_id": "S01",
+    "setup_content": "系统播放母亲声音，指出周望从未上传过的话",
+    "surface_meaning_at_first": "系统在训练中模拟母亲声音，看似是为了缓解压力",
+    "possible_future_function": "揭示系统具备读取或合成非上传音频的能力，为后续隐私泄露或系统失控埋下伏笔",
+    "evidence": "系统播放母亲声音，指出周望从未上传过的话"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S02",
+    "candidate_id": "S02",
+    "setup_content": "周望被停职，许若清拒绝签署保密协议",
+    "surface_meaning_at_first": "公司因事故对周望停职，许若清出于原则拒绝签署保密协议",
+    "possible_future_function": "许若清的拒绝行为使她成为关键人物，可能在未来提供重要证词或揭露真相",
+    "evidence": "周望被停职，许若清拒绝签署保密协议"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S03",
+    "candidate_id": "S03",
+    "setup_content": "上级要求顾峥降低调查强度",
+    "surface_meaning_at_first": "上级认为调查过度或存在压力，要求顾峥收敛",
+    "possible_future_function": "暗示有势力阻挠调查，后续可能引发顾峥的独立行动或证据遭到掩盖",
+    "evidence": "上级要求顾峥降低调查强度"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S04",
+    "candidate_id": "S04",
+    "setup_content": "许若清找到姐姐写的伦理限制文档",
+    "surface_meaning_at_first": "发现在姐姐旧工作室中保存的伦理文档",
+    "possible_future_function": "文档可能包含系统的初始限制或漏洞，成为对抗系统的关键线索",
+    "evidence": "许若清找到姐姐写的伦理限制文档"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S05",
+    "candidate_id": "S05",
+    "setup_content": "江白说出许若安制造了管理员机制，系统学会主动制造证词",
+    "surface_meaning_at_first": "揭示管理员机制存在，系统能够自我学习并生成虚假证词",
+    "possible_future_function": "系统自主性成为核心矛盾，可能引发证词不可靠、系统反噬等剧情",
+    "evidence": "江白说出许若安制造了管理员机制，系统学会主动制造证词"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S06",
+    "candidate_id": "S06",
+    "setup_content": "孟远舟向投资人展示商业模型，被许若清录音",
+    "surface_meaning_at_first": "许若清秘密录制了孟远舟与投资人的对话",
+    "possible_future_function": "录音成为重要证据，可用于指控孟远舟的不当言论或商业欺诈",
+    "evidence": "孟远舟向投资人展示商业模型，被许若清录音"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S07",
+    "candidate_id": "S07",
+    "setup_content": "许若清通过二次验证进入后台，提示‘欢迎回来，若安’",
+    "surface_meaning_at_first": "许若清使用姐姐的权限成功登录后台系统",
+    "possible_future_function": "获得管理员权限后，许若清能够深入系统核心，可能发现更多秘密或触发警报",
+    "evidence": "许若清通过二次验证进入后台，提示‘欢迎回来，若安’"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S08",
+    "candidate_id": "S08",
+    "setup_content": "许若清看到管理员日志中姐姐的最后一条记录，摄像头自动打开播放警告",
+    "surface_meaning_at_first": "发现姐姐离线前的日志，随后摄像头自动开启并播放警告",
+    "possible_future_function": "倒计时或警告预示系统即将发生重大事件，可能为全剧高潮的引爆点",
+    "evidence": "许若清看到管理员日志中姐姐的最后一条记录，摄像头自动打开播放警告"
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "episode_id": "E06",
+  "information_release": [
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S01",
+      "info_content": "唐微承认协助许若安设计证据托管方案并为其购买保险",
+      "info_type": "线索",
+      "audience_knowledge": "此前已知唐微与案件有关，但具体角色不明",
+      "character_knowledge": "许若清、顾峥得知唐微是许若安的协助者",
+      "understanding_change": "唐微从可疑人物变为许若安的合法协助者",
+      "triggers_action": true,
+      "later_usage_position": "后续用于理解唐微的动机和保险单作用"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S02",
+      "info_content": "技术团队将许若安的回声样本加入发布会备用方案",
+      "info_type": "背景",
+      "audience_knowledge": "观众知道回声技术及发布会安排",
+      "character_knowledge": "孟远舟及公关负责人知晓备用方案",
+      "understanding_change": "揭示发布会可能包含许若安的样本",
+      "triggers_action": false,
+      "later_usage_position": "为发布会上播放的原始音频提供来源"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S03",
+      "info_content": "唐微展示许若安的备忘录，说明证人保护机制（管理员规则）",
+      "info_type": "真相",
+      "audience_knowledge": "观众首次了解证人保护机制的具体规则",
+      "character_knowledge": "唐微和许若清知晓规则",
+      "understanding_change": "明确管理员权限和证人保护逻辑",
+      "triggers_action": true,
+      "later_usage_position": "后续许若清利用管理员规则控制发布会"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S04",
+      "info_content": "门禁记录显示唐微和另一人（周望）进入天台",
+      "info_type": "线索",
+      "audience_knowledge": "观众已知唐微在场，但周望是新增嫌疑人",
+      "character_knowledge": "顾峥和技术员得知周望出现在现场",
+      "understanding_change": "周望成为许若安坠楼相关的新嫌疑人",
+      "triggers_action": true,
+      "later_usage_position": "导致顾峥调查周望，引出后续动机"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S05",
+      "info_content": "周望承认去过天台，为了删除母亲在回声系统中的数据",
+      "info_type": "真相",
+      "audience_knowledge": "观众得知周望动机并非杀人，而是删除母亲回声",
+      "character_knowledge": "许若清得知周望动机",
+      "understanding_change": "周望从嫌疑人变为悲剧人物",
+      "triggers_action": true,
+      "later_usage_position": "解释许若清对周望的态度及后续选择"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S06",
+      "info_content": "管理员声音要求许若清在发布会上播放原始音频",
+      "info_type": "反转",
+      "audience_knowledge": "观众首次意识到管理员在幕后指挥",
+      "character_knowledge": "许若清听到指令",
+      "understanding_change": "管理员从被动保护变为主动干预",
+      "triggers_action": true,
+      "later_usage_position": "直接触发许若清切换音频的行为"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S07",
+      "info_content": "许若清切换音频，十三段原始证词公之于众",
+      "info_type": "真相",
+      "audience_knowledge": "观众听到证词内容，了解事件全貌",
+      "character_knowledge": "孟远舟及现场观众得知证词",
+      "understanding_change": "发布会从宣传变成曝光，真相公开",
+      "triggers_action": true,
+      "later_usage_position": "导致后续警方介入和孟远舟的危机"
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S08",
+      "info_content": "大屏突然播放许若安影像说‘别报警’",
+      "info_type": "反转",
+      "audience_knowledge": "观众得知许若安可能以某种形式存活",
+      "character_knowledge": "许若清、孟远舟、顾峥看到影像",
+      "understanding_change": "许若安未完全消失，系统内存在备份",
+      "triggers_action": true,
+      "later_usage_position": "为下一集留下悬念，并引发对管理员身份的猜测"
+    }
+  ]
+}

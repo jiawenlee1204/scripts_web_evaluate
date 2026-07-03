@@ -1,0 +1,95 @@
+[
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S01",
+    "function_tags": [
+      "PLOT",
+      "CHARACTER",
+      "EMOTION"
+    ],
+    "function_explanation": "通过播放音频揭示系统监听，并展现周望的技术洞察与许若清的情感波动",
+    "state_change": "确认系统在偷偷监听",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S02",
+    "function_tags": [
+      "PLOT",
+      "CLUE"
+    ],
+    "function_explanation": "许若清发现江白留下的警告，提供关键线索",
+    "state_change": "获得江白留下的警告",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S03",
+    "function_tags": [
+      "PLOT",
+      "CLUE"
+    ],
+    "function_explanation": "顾峥找到举报信草稿，揭露公司行为",
+    "state_change": "获得举报信证据",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S04",
+    "function_tags": [
+      "PLOT",
+      "EMOTION",
+      "THEME"
+    ],
+    "function_explanation": "发布会展示公司表面说辞，强化许若清怀疑并点出科技伦理主题",
+    "state_change": "许若清对公司更加怀疑",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S05",
+    "function_tags": [
+      "PLOT",
+      "WORLD"
+    ],
+    "function_explanation": "江白揭示姐姐成为系统权限，扩展世界观并推进主线",
+    "state_change": "得知姐姐成为系统权限",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S06",
+    "function_tags": [
+      "PLOT",
+      "CHARACTER",
+      "EMOTION"
+    ],
+    "function_explanation": "播放姐姐录音，展现角色内心选择及其情感冲击",
+    "state_change": "获得姐姐录音",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S07",
+    "function_tags": [
+      "PLOT",
+      "CHARACTER",
+      "CONFLICT"
+    ],
+    "function_explanation": "二人交换信息但隐瞒关键点，建立不信任的合作关系",
+    "state_change": "建立合作关系但不完全信任",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S08",
+    "function_tags": [
+      "PLOT",
+      "CLUE",
+      "PAYOFF"
+    ],
+    "function_explanation": "周望被困同时揭示许若安账号为管理员，提供重大线索与悬念",
+    "state_change": "周望被困，许若安账号显示为管理员",
+    "suspected_functionless": false
+  }
+]

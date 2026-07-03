@@ -1,0 +1,94 @@
+[
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S01",
+    "function_tags": [
+      "PLOT",
+      "CLUE"
+    ],
+    "function_explanation": "引入旧楼线索，推进主线调查",
+    "state_change": "发现旧楼线索",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S02",
+    "function_tags": [
+      "PLOT",
+      "CLUE"
+    ],
+    "function_explanation": "发现江白名字和录音线索，深化悬疑",
+    "state_change": "发现江白名字和录音线索",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S03",
+    "function_tags": [
+      "PLOT",
+      "CLUE"
+    ],
+    "function_explanation": "确认监控被篡改，增加科技犯罪元素",
+    "state_change": "确认监控被篡改",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S04",
+    "function_tags": [
+      "PLOT",
+      "CONFLICT",
+      "EMOTION"
+    ],
+    "function_explanation": "主角与公司公开冲突，情绪紧张，揭示公司隐瞒信息",
+    "state_change": "许若清发现公司隐瞒信息",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S05",
+    "function_tags": [
+      "PLOT",
+      "CLUE",
+      "CHARACTER"
+    ],
+    "function_explanation": "周望提供内部信息，展现其动机，深化人物关系",
+    "state_change": "许若清获得内部信息",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S06",
+    "function_tags": [
+      "PLOT",
+      "CLUE",
+      "CONFLICT"
+    ],
+    "function_explanation": "发现磁带，与神秘人物冲突，留下悬念",
+    "state_change": "发现另一盒磁带和跟踪者",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S07",
+    "function_tags": [
+      "PLOT",
+      "CLUE",
+      "CONFLICT"
+    ],
+    "function_explanation": "获得照片线索，增加人物关系复杂性，冲突升级",
+    "state_change": "获得新线索照片",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E02",
+    "scene_id": "E02-S08",
+    "function_tags": [
+      "PLOT",
+      "CLUE"
+    ],
+    "function_explanation": "解锁硬盘，发现十三个音频文件，重大进展",
+    "state_change": "硬盘解锁，发现十三个音频文件",
+    "suspected_functionless": false
+  }
+]

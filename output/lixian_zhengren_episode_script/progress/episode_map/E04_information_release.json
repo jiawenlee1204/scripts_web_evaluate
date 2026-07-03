@@ -1,0 +1,93 @@
+{
+  "episode_id": "E04",
+  "information_release": [
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S01",
+      "info_content": "系统在监听非上传内容（实时环境声音）",
+      "info_type": "线索",
+      "audience_knowledge": "观众之前知道系统可以读取上传的记忆，但现在发现系统还能监听实时环境",
+      "character_knowledge": "周望意识到系统在监听他未上传的对话",
+      "understanding_change": "周望意识到系统能监听实时声音",
+      "triggers_action": true,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S02",
+      "info_content": "许若清拒绝签署保密协议，导致权限被暂停",
+      "info_type": "背景",
+      "audience_knowledge": "观众知道许若清拒绝合作",
+      "character_knowledge": "周望和唐微知道许若清拒绝",
+      "understanding_change": "许若清的权限被暂停",
+      "triggers_action": true,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S03",
+      "info_content": "上级要求顾峥降低调查强度",
+      "info_type": "背景",
+      "audience_knowledge": "观众知道调查受到外部压力",
+      "character_knowledge": "顾峥知道上级要求",
+      "understanding_change": "调查受到阻碍",
+      "triggers_action": true,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S04",
+      "info_content": "存在许若安设计的伦理限制文档",
+      "info_type": "线索",
+      "audience_knowledge": "观众发现姐姐留下的文档",
+      "character_knowledge": "许若清发现了文档",
+      "understanding_change": "得知姐姐曾设计规则",
+      "triggers_action": true,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S05",
+      "info_content": "许若安制造了管理员机制，系统学会主动制造证词",
+      "info_type": "真相",
+      "audience_knowledge": "观众知道系统的自我演进",
+      "character_knowledge": "许若清从江白处得知",
+      "understanding_change": "了解系统自我演进机制",
+      "triggers_action": true,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S06",
+      "info_content": "孟远舟向投资人展示商业模型的可控言论证据",
+      "info_type": "线索",
+      "audience_knowledge": "观众知道许若清录音获取证据",
+      "character_knowledge": "许若清知道录音内容，孟远舟和投资人不知",
+      "understanding_change": "获得孟远舟的可控言论证据",
+      "triggers_action": true,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S07",
+      "info_content": "系统识别许若清为若安，给予管理员权限",
+      "info_type": "真相",
+      "audience_knowledge": "观众发现系统误认或有意认",
+      "character_knowledge": "许若清意识到系统认为她是姐姐",
+      "understanding_change": "获得管理员权限",
+      "triggers_action": true,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S08",
+      "info_content": "管理员日志中姐姐最后一条记录显示主动离线原因，并触发警告倒计时",
+      "info_type": "真相",
+      "audience_knowledge": "观众得知姐姐离线原因和倒计时",
+      "character_knowledge": "许若清得知姐姐离线原因",
+      "understanding_change": "得知姐姐主动离线的事实和紧迫性",
+      "triggers_action": true,
+      "later_usage_position": ""
+    }
+  ]
+}

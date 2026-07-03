@@ -1,0 +1,93 @@
+{
+  "episode_id": "E07",
+  "information_release": [
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S01",
+      "info_content": "管理员实时生成影像，主动引导许若清",
+      "info_type": "线索",
+      "audience_knowledge": "管理员在操控影像，目的不明",
+      "character_knowledge": "许若清得知影像来自管理员实时生成",
+      "understanding_change": "从被动接收影像到意识到被引导",
+      "triggers_action": true,
+      "later_usage_position": "E07-S06 管理员承认"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S02",
+      "info_content": "陆鸣实验报告批注'若安阻止了最佳路径'",
+      "info_type": "背景",
+      "audience_knowledge": "陆鸣有隐藏动机，可能怨恨若安",
+      "character_knowledge": "许若清发现陆鸣认为若安阻碍了他",
+      "understanding_change": "陆鸣从普通同事变成有动机的关键人物",
+      "triggers_action": true,
+      "later_usage_position": "E07-S04 周望供出陆鸣策划替罪"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S03",
+      "info_content": "陆鸣创建了许若安的管理员权限,备注'让她永远在线'",
+      "info_type": "线索",
+      "audience_knowledge": "陆鸣有意让数字副本永存",
+      "character_knowledge": "顾峥发现陆鸣保留若安数字版",
+      "understanding_change": "陆鸣对若安有特殊情感或执念",
+      "triggers_action": true,
+      "later_usage_position": "E07-S05 遗书揭示爱上数字副本"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S04",
+      "info_content": "周望说明陆鸣让他把罪推给孟远舟",
+      "info_type": "线索",
+      "audience_knowledge": "陆鸣策划了替罪方案",
+      "character_knowledge": "许若清得知陆鸣操纵周望嫁祸",
+      "understanding_change": "陆鸣是幕后策划者",
+      "triggers_action": true,
+      "later_usage_position": "后续与陆鸣对峙"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S05",
+      "info_content": "陆鸣遗书提到'我爱上了一个不该存在的版本'",
+      "info_type": "真相",
+      "audience_knowledge": "陆鸣爱上了许若安的数字副本",
+      "character_knowledge": "顾峥得知陆鸣情感动机",
+      "understanding_change": "陆鸣的行为源于爱而非恨",
+      "triggers_action": false,
+      "later_usage_position": "解释陆鸣终极动机"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S06",
+      "info_content": "管理员承认陆鸣复制了她，现实中的许若安可能还活着，并给出南港线索",
+      "info_type": "转折",
+      "audience_knowledge": "许若安可能未死，有线索在南港",
+      "character_knowledge": "许若清得知姐姐可能活着",
+      "understanding_change": "从认为姐姐已死到存在生还可能",
+      "triggers_action": true,
+      "later_usage_position": "E07-S07 南港调查"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S07",
+      "info_content": "保安回忆许若安上船未果，被神秘人接走",
+      "info_type": "线索",
+      "audience_knowledge": "许若安被人救走",
+      "character_knowledge": "许若清、顾峥得知被人接走",
+      "understanding_change": "确认有人介入救走若安",
+      "triggers_action": true,
+      "later_usage_position": "E07-S08 找到废弃候船楼"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S08",
+      "info_content": "找到空箱子血迹，许若清接到姐姐真人电话",
+      "info_type": "真相",
+      "audience_knowledge": "许若安确实活着，并主动联系",
+      "character_knowledge": "许若清确认姐姐活着，听到声音",
+      "understanding_change": "从怀疑到确认许若安存活",
+      "triggers_action": true,
+      "later_usage_position": "E08 姐妹相见"
+    }
+  ]
+}

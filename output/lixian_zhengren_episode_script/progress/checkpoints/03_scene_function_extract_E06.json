@@ -1,0 +1,86 @@
+[
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S01",
+    "function_tags": [
+      "PLOT"
+    ],
+    "function_explanation": "唐微坦白协助许若安设计证据托管方案并购买保险，揭示关键背景信息",
+    "state_change": "唐微坦白，交代过去行动",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S02",
+    "function_tags": [
+      "PLOT"
+    ],
+    "function_explanation": "孟远舟准备发布会，技术团队将许若安样本加入备用方案，为高潮铺垫",
+    "state_change": "发布会即将开始，关键样本被加入",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S03",
+    "function_tags": [
+      "WORLD",
+      "CLUE"
+    ],
+    "function_explanation": "唐微展示许若安备忘录，说明证人保护机制，丰富世界观并给出新线索",
+    "state_change": "许若清了解管理员规则",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S04",
+    "function_tags": [
+      "CLUE"
+    ],
+    "function_explanation": "门禁记录显示唐微和另一人进入天台，周望成为嫌疑人",
+    "state_change": "周望被锁定为嫌疑人",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S05",
+    "function_tags": [
+      "CHARACTER",
+      "PLOT"
+    ],
+    "function_explanation": "周望承认去过天台是为了删除母亲回声，揭露动机并推进情节",
+    "state_change": "周望动机揭露",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S06",
+    "function_tags": [
+      "CONFLICT"
+    ],
+    "function_explanation": "许若清准备替换视频，但管理员声音要求放原始音频，产生内部冲突",
+    "state_change": "决定播放原始音频",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S07",
+    "function_tags": [
+      "PAYOFF",
+      "PLOT"
+    ],
+    "function_explanation": "许若清切换音频播放原始证词，发布会中断，实现前期铺垫的 payoff",
+    "state_change": "发布会中断，真相公开",
+    "suspected_functionless": false
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S08",
+    "function_tags": [
+      "CLUE",
+      "PAYOFF"
+    ],
+    "function_explanation": "大屏播放许若安影像说'别报警'，出现新线索且是管理员介入的 payoff",
+    "state_change": "管理员介入，新线索浮现",
+    "suspected_functionless": false
+  }
+]

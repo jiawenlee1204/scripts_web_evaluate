@@ -1,0 +1,90 @@
+[
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S01",
+    "character_name": "唐微",
+    "action": "承认协助许若安设计证据托管方案并为其购买保险",
+    "motivation_evidence": "唐微在停车场主动向许若清和顾峥坦白",
+    "consequence": "许若清和顾峥得知唐微与许若安的合作关系",
+    "cost_or_risk": "可能面临法律或职业风险",
+    "change_after_action": "从隐瞒转为坦白",
+    "relationship_impact": "与许若清的关系可能更复杂"
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S02",
+    "character_name": "孟远舟",
+    "action": "准备发布会并将许若安样本加入备用方案",
+    "motivation_evidence": "技术团队按孟远舟指令操作",
+    "consequence": "发布会在即，备用方案就绪",
+    "cost_or_risk": "若方案出错可能影响发布会",
+    "change_after_action": "发布会风险增加",
+    "relationship_impact": "无直接关系变化"
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S03",
+    "character_name": "唐微",
+    "action": "展示许若安的备忘录并说明证人保护机制",
+    "motivation_evidence": "向许若清展示以解释系统规则",
+    "consequence": "许若清了解到管理员规则",
+    "cost_or_risk": "暴露自己与系统的关联",
+    "change_after_action": "从隐秘转向信息公开",
+    "relationship_impact": "加深与许若清的信任"
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S04",
+    "character_name": "顾峥",
+    "action": "调查门禁记录发现唐微和周望进入天台",
+    "motivation_evidence": "刑警调查案件的需要",
+    "consequence": "周望成为嫌疑人",
+    "cost_or_risk": "可能误判或打草惊蛇",
+    "change_after_action": "调查方向转向周望",
+    "relationship_impact": "对周望产生怀疑"
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S05",
+    "character_name": "周望",
+    "action": "承认去过天台是为了删除母亲的回声",
+    "motivation_evidence": "周望向许若清坦白动机",
+    "consequence": "许若清得知周望的动机",
+    "cost_or_risk": "可能承担法律责任",
+    "change_after_action": "从隐瞒转为坦白",
+    "relationship_impact": "与许若清的关系紧张或同情"
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S06",
+    "character_name": "许若清",
+    "action": "决定播放原始音频而非替换视频",
+    "motivation_evidence": "管理员声音要求放原始音频，许若清听从",
+    "consequence": "原始音频将被播放",
+    "cost_or_risk": "违背孟远舟的期望，可能引发冲突",
+    "change_after_action": "从准备替换转为坚持播放原始内容",
+    "relationship_impact": "与孟远舟的对立加剧"
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S07",
+    "character_name": "许若清",
+    "action": "切换音频播放十三段原始证词",
+    "motivation_evidence": "接续上一场景的决定",
+    "consequence": "发布会中断",
+    "cost_or_risk": "可能导致发布会失败和冲突",
+    "change_after_action": "发布会陷入混乱",
+    "relationship_impact": "与孟远舟关系破裂"
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S08",
+    "character_name": "孟远舟",
+    "action": "与许若清争执",
+    "motivation_evidence": "发布会意外中断引发愤怒",
+    "consequence": "大屏播放许若安影像，出现新线索",
+    "cost_or_risk": "自己的计划被打乱",
+    "change_after_action": "从掌控转为被动",
+    "relationship_impact": "与许若清彻底对立"
+  }
+]

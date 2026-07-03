@@ -1,0 +1,90 @@
+[
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S01",
+    "character_name": "许若清",
+    "action": "在内测后台发现已注销两年的姐姐账号登录",
+    "motivation_evidence": "账号 A-000817 已登录",
+    "consequence": "发现姐姐账号出现异常登录",
+    "cost_or_risk": "无直接代价",
+    "change_after_action": "从无异常状态变为发现姐姐账号登录",
+    "relationship_impact": "对姐姐的思念和疑惑加深"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S02",
+    "character_name": "许若清",
+    "action": "收到姐姐发来的语音，警告她不要相信今晚上线的数据",
+    "motivation_evidence": "语音内容为警告",
+    "consequence": "意识到姐姐可能还在",
+    "cost_or_risk": "无直接代价",
+    "change_after_action": "从怀疑姐姐是否还活着到相信她可能还在",
+    "relationship_impact": "与姐姐的虚拟联系强化"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S03",
+    "character_name": "陆鸣",
+    "action": "将移动硬盘交给许若清并提到'离线证人'",
+    "motivation_evidence": "要求交给媒体而不是公司或警察",
+    "consequence": "硬盘转移到许若清手中",
+    "cost_or_risk": "可能因泄密风险面临公司追究",
+    "change_after_action": "从持有硬盘到交出硬盘",
+    "relationship_impact": "建立对许若清的信任"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S04",
+    "character_name": "陆鸣",
+    "action": "坠楼身亡",
+    "motivation_evidence": "说姐姐被留在系统里",
+    "consequence": "死亡",
+    "cost_or_risk": "生命代价",
+    "change_after_action": "从活着变为死亡",
+    "relationship_impact": "许若清失去关键证人"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S05",
+    "character_name": "许若清",
+    "action": "向顾峥说出姐姐的语音内容",
+    "motivation_evidence": "试图提供线索",
+    "consequence": "语音记录已消失，证据消失",
+    "cost_or_risk": "证据被撤回，可能影响警方信任",
+    "change_after_action": "从有证据到无证据",
+    "relationship_impact": "与警方关系变得复杂"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S06",
+    "character_name": "许若清",
+    "action": "参加危机会议并得知孟远舟否认离线证人项目",
+    "motivation_evidence": "会议中孟远舟的否认",
+    "consequence": "意识到公司内部所有人都知道姐姐",
+    "cost_or_risk": "无直接代价",
+    "change_after_action": "从不知情到确认公司知情",
+    "relationship_impact": "对公司管理层产生不信任"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S07",
+    "character_name": "许若清",
+    "action": "尝试用姐姐旧手机录音解锁硬盘",
+    "motivation_evidence": "密码提示需要第一条遗言",
+    "consequence": "解锁失败，但获得新线索",
+    "cost_or_risk": "无直接代价",
+    "change_after_action": "从无线索到获得新线索",
+    "relationship_impact": "对姐姐的回忆加深"
+  },
+  {
+    "episode_id": "E01",
+    "scene_id": "E01-S08",
+    "character_name": "许若清",
+    "action": "查看陌生账号发送的定位和语音，并注意戴口罩的男人",
+    "motivation_evidence": "收到定位和语音，男人用姐姐旧手机壳",
+    "consequence": "获得新线索：港湾精神康复中心旧楼，第一个证人醒了",
+    "cost_or_risk": "无直接代价",
+    "change_after_action": "从无线索到获得新线索",
+    "relationship_impact": "对姐姐的调查出现新方向"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S01",
+    "character_name": "许若清",
+    "action": "查看系统弹出的证人二碎片信息，确定证人为赵岚",
+    "motivation_evidence": "倒计时开始，需要寻找下一个证人",
+    "consequence": "确定了下一个调查目标为赵岚",
+    "cost_or_risk": "无直接风险",
+    "change_after_action": "从不知到明确调查对象",
+    "relationship_impact": "与顾峥继续合作调查"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S02",
+    "character_name": "许若清",
+    "action": "前往数据外包公司旧址，向门卫询问赵岚",
+    "motivation_evidence": "需要找到赵岚了解情况",
+    "consequence": "得知赵岚已车祸去世，女儿不说话",
+    "cost_or_risk": "线索中断",
+    "change_after_action": "调查陷入困境",
+    "relationship_impact": "无"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S02",
+    "character_name": "顾峥",
+    "action": "陪同许若清前往旧址，询问门卫",
+    "motivation_evidence": "协助许若清调查",
+    "consequence": "获得赵岚死讯",
+    "cost_or_risk": "无",
+    "change_after_action": "与许若清共同面对线索中断",
+    "relationship_impact": "加深与许若清的合作"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S03",
+    "character_name": "许若清",
+    "action": "在儿童心理诊所询问小禾",
+    "motivation_evidence": "想从赵岚女儿口中获取线索",
+    "consequence": "小禾说手机里的妈妈让她不要相信会笑的叔叔",
+    "cost_or_risk": "无",
+    "change_after_action": "获得新线索，怀疑有会笑的叔叔",
+    "relationship_impact": "与小禾建立短暂交流"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S03",
+    "character_name": "顾峥",
+    "action": "陪同许若清询问小禾",
+    "motivation_evidence": "协助调查",
+    "consequence": "听到小禾的线索",
+    "cost_or_risk": "无",
+    "change_after_action": "意识到会笑的叔叔可能是关键人物",
+    "relationship_impact": "无"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S04",
+    "character_name": "唐微",
+    "action": "向孟远舟汇报许若清恢复管理员入口的情况",
+    "motivation_evidence": "职责所在，向老板报告技术异常",
+    "consequence": "孟远舟认为日志不能证明犯罪，唐微出现迟疑",
+    "cost_or_risk": "可能引起孟远舟怀疑",
+    "change_after_action": "内心开始动摇，对孟远舟产生怀疑",
+    "relationship_impact": "与孟远舟关系出现裂痕"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S04",
+    "character_name": "孟远舟",
+    "action": "对唐微的汇报作出回应，认为日志不能证明犯罪",
+    "motivation_evidence": "试图掩盖真相，否认日志的证明力",
+    "consequence": "唐微出现迟疑，内心不安",
+    "cost_or_risk": "可能失去唐微的信任",
+    "change_after_action": "继续维持表面镇定，但内部风险增加",
+    "relationship_impact": "与唐微信任度降低"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S05",
+    "character_name": "许若清",
+    "action": "前往赵岚旧小区，与赵岚母亲交谈",
+    "motivation_evidence": "需要更多关于赵岚的信息",
+    "consequence": "赵岚母亲给出云盘账号，手机里的女儿问关于红色车",
+    "cost_or_risk": "无",
+    "change_after_action": "获得云盘账号，线索继续",
+    "relationship_impact": "与赵岚母亲建立信任"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S06",
+    "character_name": "许若清",
+    "action": "在网吧包间打开赵岚云盘，发现分类文件夹",
+    "motivation_evidence": "查看云盘内容寻找证据",
+    "consequence": "发现‘高价值痛苦语料’分类，倒计时归零但备份自动触发",
+    "cost_or_risk": "触发备份可能暴露行踪",
+    "change_after_action": "获得备份数据，调查取得重大进展",
+    "relationship_impact": "与顾峥共同发现关键证据"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S06",
+    "character_name": "顾峥",
+    "action": "在网吧包间协助许若清查看云盘",
+    "motivation_evidence": "协助调查",
+    "consequence": "目睹倒计时归零和备份触发",
+    "cost_or_risk": "无",
+    "change_after_action": "意识到事态紧急",
+    "relationship_impact": "与许若清合作更紧密"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S07",
+    "character_name": "许若清",
+    "action": "播放云盘中的视频文件",
+    "motivation_evidence": "查看视频证据",
+    "consequence": "看到许若安失踪当晚众人对峙画面",
+    "cost_or_risk": "可能触发系统警报",
+    "change_after_action": "获得关键视频证据，真相逐渐浮现",
+    "relationship_impact": "与顾峥共同见证关键证据"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S07",
+    "character_name": "顾峥",
+    "action": "陪同许若清观看视频",
+    "motivation_evidence": "协助调查",
+    "consequence": "看到许若安失踪当晚情节",
+    "cost_or_risk": "无",
+    "change_after_action": "了解事件全貌",
+    "relationship_impact": "与许若清共同经历重要发现"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S08",
+    "character_name": "唐微",
+    "action": "在网吧后门出现，递出保险单",
+    "motivation_evidence": "可能内心愧疚或想提供真相",
+    "consequence": "许若清获得保险单，受益人为许若安",
+    "cost_or_risk": "唐微面临背叛孟远舟的风险",
+    "change_after_action": "唐微立场转变，开始帮助许若清",
+    "relationship_impact": "唐微与许若清建立信任，与孟远舟对立"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S08",
+    "character_name": "许若清",
+    "action": "接收唐微递来的保险单",
+    "motivation_evidence": "获取新证据",
+    "consequence": "获得保险单，受益人指向许若安",
+    "cost_or_risk": "可能暴露行踪",
+    "change_after_action": "获得新证据，调查方向更明确",
+    "relationship_impact": "与唐微建立合作关系"
+  },
+  {
+    "episode_id": "E05",
+    "scene_id": "E05-S08",
+    "character_name": "顾峥",
+    "action": "在网吧后门陪同许若清，观察唐微",
+    "motivation_evidence": "保护许若清并协助调查",
+    "consequence": "见证唐微提供保险单",
+    "cost_or_risk": "无",
+    "change_after_action": "意识到唐微是盟友",
+    "relationship_impact": "与唐微建立初步信任"
+  }
+]

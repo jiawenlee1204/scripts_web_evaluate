@@ -1,0 +1,752 @@
+{
+  "scene_functions": [
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S01",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "姐姐账号异常登录引发核心悬念，推动许若清调查，并带来情感冲击。",
+      "state_change": "许若清发现姐姐账号登录，开始怀疑姐姐可能还在。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S02",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "姐姐的语音警告强化悬念，证明姐姐可能存在，并增加不安情绪。",
+      "state_change": "许若清收到姐姐的语音，意识到姐姐可能还活着或留有信息。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S03",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CHARACTER",
+        "CONFLICT"
+      ],
+      "function_explanation": "陆鸣交付硬盘并提及‘离线证人’，引入关键道具和人物关系，并制造与官方合作的冲突。",
+      "state_change": "许若清获得移动硬盘，陆鸣要求不要交给警察。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S04",
+      "function_tags": [
+        "PLOT",
+        "EMOTION",
+        "CONFLICT"
+      ],
+      "function_explanation": "陆鸣坠楼身亡，成为关键事件，引发强烈情绪，并揭示公司内部存在严重问题。",
+      "state_change": "陆鸣死亡，线索中断，许若清陷入更深的危机。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S05",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CONFLICT"
+      ],
+      "function_explanation": "警方询问中语音记录消失，证据被篡改，增加悬疑和对抗。",
+      "state_change": "语音证据被撤回，许若清面临警方怀疑。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S06",
+      "function_tags": [
+        "PLOT",
+        "CHARACTER",
+        "CONFLICT",
+        "THEME"
+      ],
+      "function_explanation": "危机会议揭露公司否认项目，许若清确认公司内部知情，突显科技伦理主题。",
+      "state_change": "许若清确认公司高层知道姐姐和‘离线证人’项目。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S07",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "尝试解锁硬盘但失败，获得新线索‘第一条遗言’，同时充满情感回忆。",
+      "state_change": "许若清未解开硬盘，但得知需要姐姐的第一条遗言。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E01",
+      "scene_id": "E01-S08",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "收到陌生线索，定位港湾精神康复中心，第一个证人苏醒，推动下一阶段调查，并营造紧张氛围。",
+      "state_change": "许若清获得新地点‘港湾精神康复中心’和第一个证人信息。",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S01",
+      "function_tags": [
+        "PLOT",
+        "CLUE"
+      ],
+      "function_explanation": "引入旧楼线索，推进主线调查",
+      "state_change": "发现旧楼线索",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S02",
+      "function_tags": [
+        "PLOT",
+        "CLUE"
+      ],
+      "function_explanation": "发现江白名字和录音线索，深化悬疑",
+      "state_change": "发现江白名字和录音线索",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S03",
+      "function_tags": [
+        "PLOT",
+        "CLUE"
+      ],
+      "function_explanation": "确认监控被篡改，增加科技犯罪元素",
+      "state_change": "确认监控被篡改",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S04",
+      "function_tags": [
+        "PLOT",
+        "CONFLICT",
+        "EMOTION"
+      ],
+      "function_explanation": "主角与公司公开冲突，情绪紧张，揭示公司隐瞒信息",
+      "state_change": "许若清发现公司隐瞒信息",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S05",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CHARACTER"
+      ],
+      "function_explanation": "周望提供内部信息，展现其动机，深化人物关系",
+      "state_change": "许若清获得内部信息",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S06",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CONFLICT"
+      ],
+      "function_explanation": "发现磁带，与神秘人物冲突，留下悬念",
+      "state_change": "发现另一盒磁带和跟踪者",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S07",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CONFLICT"
+      ],
+      "function_explanation": "获得照片线索，增加人物关系复杂性，冲突升级",
+      "state_change": "获得新线索照片",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E02",
+      "scene_id": "E02-S08",
+      "function_tags": [
+        "PLOT",
+        "CLUE"
+      ],
+      "function_explanation": "解锁硬盘，发现十三个音频文件，重大进展",
+      "state_change": "硬盘解锁，发现十三个音频文件",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S01",
+      "function_tags": [
+        "PLOT",
+        "CHARACTER",
+        "EMOTION"
+      ],
+      "function_explanation": "通过播放音频揭示系统监听，并展现周望的技术洞察与许若清的情感波动",
+      "state_change": "确认系统在偷偷监听",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S02",
+      "function_tags": [
+        "PLOT",
+        "CLUE"
+      ],
+      "function_explanation": "许若清发现江白留下的警告，提供关键线索",
+      "state_change": "获得江白留下的警告",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S03",
+      "function_tags": [
+        "PLOT",
+        "CLUE"
+      ],
+      "function_explanation": "顾峥找到举报信草稿，揭露公司行为",
+      "state_change": "获得举报信证据",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S04",
+      "function_tags": [
+        "PLOT",
+        "EMOTION",
+        "THEME"
+      ],
+      "function_explanation": "发布会展示公司表面说辞，强化许若清怀疑并点出科技伦理主题",
+      "state_change": "许若清对公司更加怀疑",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S05",
+      "function_tags": [
+        "PLOT",
+        "WORLD"
+      ],
+      "function_explanation": "江白揭示姐姐成为系统权限，扩展世界观并推进主线",
+      "state_change": "得知姐姐成为系统权限",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S06",
+      "function_tags": [
+        "PLOT",
+        "CHARACTER",
+        "EMOTION"
+      ],
+      "function_explanation": "播放姐姐录音，展现角色内心选择及其情感冲击",
+      "state_change": "获得姐姐录音",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S07",
+      "function_tags": [
+        "PLOT",
+        "CHARACTER",
+        "CONFLICT"
+      ],
+      "function_explanation": "二人交换信息但隐瞒关键点，建立不信任的合作关系",
+      "state_change": "建立合作关系但不完全信任",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E03",
+      "scene_id": "E03-S08",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "PAYOFF"
+      ],
+      "function_explanation": "周望被困同时揭示许若安账号为管理员，提供重大线索与悬念",
+      "state_change": "周望被困，许若安账号显示为管理员",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S01",
+      "function_tags": [
+        "PLOT",
+        "CLUE"
+      ],
+      "function_explanation": "揭示系统能监听未上传内容，引发对系统真实能力的怀疑",
+      "state_change": "意识到系统在监听非上传内容",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S02",
+      "function_tags": [
+        "PLOT",
+        "CONFLICT",
+        "CHARACTER"
+      ],
+      "function_explanation": "周望被停职激化矛盾，许若清拒绝协议凸显其原则性",
+      "state_change": "许若清权限被暂停",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S03",
+      "function_tags": [
+        "PLOT",
+        "CONFLICT"
+      ],
+      "function_explanation": "上级施压限制调查，增加外部阻力",
+      "state_change": "调查受阻",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S04",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CHARACTER"
+      ],
+      "function_explanation": "许若清发现姐姐遗留的伦理规则文档，提供关键线索并深化角色背景",
+      "state_change": "发现姐姐设计的规则",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S05",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "WORLD"
+      ],
+      "function_explanation": "江白揭示管理员机制和系统自我演进，扩展世界观并推进剧情",
+      "state_change": "了解系统自我演进",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S06",
+      "function_tags": [
+        "PLOT",
+        "CONFLICT",
+        "CHARACTER"
+      ],
+      "function_explanation": "孟远舟向投资人展示商业模型并录音，暴露其意图并积累证据",
+      "state_change": "获得孟远舟可控言论证据",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S07",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CHARACTER"
+      ],
+      "function_explanation": "许若清通过二次验证获得管理员权限，系统误认为若安，揭示身份关联",
+      "state_change": "获得管理员权限",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E04",
+      "scene_id": "E04-S08",
+      "function_tags": [
+        "PLOT",
+        "EMOTION",
+        "THEME",
+        "CLUE"
+      ],
+      "function_explanation": "得知姐姐主动离线原因和倒计时开启，情绪冲击强烈并深化科技伦理主题",
+      "state_change": "得知姐姐主动离线原因，倒计时开始",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S01",
+      "function_tags": [
+        "PLOT",
+        "CLUE"
+      ],
+      "function_explanation": "揭示证人二身份为赵岚，推动主线调查。",
+      "state_change": "确定证人二为赵岚",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S02",
+      "function_tags": [
+        "PLOT",
+        "CONFLICT"
+      ],
+      "function_explanation": "发现赵岚已死，设置障碍，增加调查难度。",
+      "state_change": "得知赵岚死亡",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S03",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "从小禾处获得关键线索：手机里的‘妈妈’指示，暗示AI骗局。",
+      "state_change": "获得新线索",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S04",
+      "function_tags": [
+        "PLOT",
+        "CHARACTER",
+        "TRANSITION"
+      ],
+      "function_explanation": "展示唐微与孟远舟的互动，唐微出现迟疑，为后续背叛伏笔。",
+      "state_change": "唐微出现迟疑",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S05",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "赵岚母亲提供云盘账号，手机中关于红色车的疑问加深悬疑。",
+      "state_change": "获得云盘",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S06",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "THEME"
+      ],
+      "function_explanation": "发现‘高价值痛苦语料’，数据伦理主题浮现；备份机制推动后续。",
+      "state_change": "获得备份",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S07",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "PAYOFF"
+      ],
+      "function_explanation": "视频揭示失踪当晚对峙，关键证据出现，呼应前文伏笔。",
+      "state_change": "获得关键视频证据",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S08",
+      "function_tags": [
+        "PLOT",
+        "CHARACTER",
+        "TRANSITION"
+      ],
+      "function_explanation": "唐微提供保险单，受益人许若安，发展角色关系，推动转折。",
+      "state_change": "唐微提供新证据",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S01",
+      "function_tags": [
+        "PLOT"
+      ],
+      "function_explanation": "唐微坦白协助许若安设计证据托管方案并购买保险，揭示关键背景信息",
+      "state_change": "唐微坦白，交代过去行动",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S02",
+      "function_tags": [
+        "PLOT"
+      ],
+      "function_explanation": "孟远舟准备发布会，技术团队将许若安样本加入备用方案，为高潮铺垫",
+      "state_change": "发布会即将开始，关键样本被加入",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S03",
+      "function_tags": [
+        "WORLD",
+        "CLUE"
+      ],
+      "function_explanation": "唐微展示许若安备忘录，说明证人保护机制，丰富世界观并给出新线索",
+      "state_change": "许若清了解管理员规则",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S04",
+      "function_tags": [
+        "CLUE"
+      ],
+      "function_explanation": "门禁记录显示唐微和另一人进入天台，周望成为嫌疑人",
+      "state_change": "周望被锁定为嫌疑人",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S05",
+      "function_tags": [
+        "CHARACTER",
+        "PLOT"
+      ],
+      "function_explanation": "周望承认去过天台是为了删除母亲回声，揭露动机并推进情节",
+      "state_change": "周望动机揭露",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S06",
+      "function_tags": [
+        "CONFLICT"
+      ],
+      "function_explanation": "许若清准备替换视频，但管理员声音要求放原始音频，产生内部冲突",
+      "state_change": "决定播放原始音频",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S07",
+      "function_tags": [
+        "PAYOFF",
+        "PLOT"
+      ],
+      "function_explanation": "许若清切换音频播放原始证词，发布会中断，实现前期铺垫的 payoff",
+      "state_change": "发布会中断，真相公开",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E06",
+      "scene_id": "E06-S08",
+      "function_tags": [
+        "CLUE",
+        "PAYOFF"
+      ],
+      "function_explanation": "大屏播放许若安影像说'别报警'，出现新线索且是管理员介入的 payoff",
+      "state_change": "管理员介入，新线索浮现",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S01",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CHARACTER"
+      ],
+      "function_explanation": "许若清追踪影像来源，发现管理员实时生成，揭示幕后黑手主动引导剧情。",
+      "state_change": "确认管理员主动引导",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S02",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CHARACTER"
+      ],
+      "function_explanation": "许若清发现陆鸣实验报告中的隐藏动机，深化角色复杂性并推进主线。",
+      "state_change": "发现陆鸣的隐藏动机",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S03",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CHARACTER"
+      ],
+      "function_explanation": "顾峥发现陆鸣为许若安创建管理员权限，锁定关键人物并揭示其执念。",
+      "state_change": "陆鸣是关键人物",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S04",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CONFLICT"
+      ],
+      "function_explanation": "周望指证陆鸣策划替罪方案，揭示核心冲突与阴谋。",
+      "state_change": "陆鸣策划了替罪方案",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S05",
+      "function_tags": [
+        "CHARACTER",
+        "EMOTION",
+        "THEME",
+        "CLUE"
+      ],
+      "function_explanation": "陆妻出示遗书，揭示陆鸣对数字副本的畸形爱恋，深化主题与情感。",
+      "state_change": "陆鸣爱上许若安数字副本",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S06",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "管理员影像承认陆鸣复制许若安，并暗示现实中的她还活着，带来情感冲击与线索。",
+      "state_change": "得到南港线索",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S07",
+      "function_tags": [
+        "PLOT",
+        "CLUE"
+      ],
+      "function_explanation": "保安回忆许若安被接走，推动调查进展并发现新地点。",
+      "state_change": "找到废弃候船楼",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S08",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION",
+        "PAYOFF"
+      ],
+      "function_explanation": "发现空箱子和血迹，接到许若安真人电话，完成情感反转并收束多条线索。",
+      "state_change": "发现许若安还活着",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S01",
+      "function_tags": [
+        "CHARACTER",
+        "EMOTION",
+        "PLOT"
+      ],
+      "function_explanation": "姐妹重逢，许若安道歉，确认其存活，建立情感纽带",
+      "state_change": "确认许若安活着",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S02",
+      "function_tags": [
+        "CLUE",
+        "PLOT"
+      ],
+      "function_explanation": "许若安讲述两年前冲突和逃离经过，揭示真相",
+      "state_change": "了解真相",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S03",
+      "function_tags": [
+        "PLOT",
+        "CONFLICT"
+      ],
+      "function_explanation": "顾峥确认许若安愿意出庭，但需要证据，推动法律线",
+      "state_change": "证人愿意出庭",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S04",
+      "function_tags": [
+        "PLOT",
+        "CONFLICT",
+        "PAYOFF"
+      ],
+      "function_explanation": "孟远舟被带到机房，顾峥出示证据链，对峙并控制反派",
+      "state_change": "孟远舟被控制",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S05",
+      "function_tags": [
+        "THEME",
+        "EMOTION",
+        "PLOT"
+      ],
+      "function_explanation": "姐妹讨论是否删除数字副本，许若安选择让系统结束，伦理抉择与情感高潮",
+      "state_change": "决定删除",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S06",
+      "function_tags": [
+        "PLOT",
+        "PAYOFF"
+      ],
+      "function_explanation": "管理员确认删除，许若清按确认，执行删除操作",
+      "state_change": "管理员离线",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S07",
+      "function_tags": [
+        "PLOT",
+        "PAYOFF",
+        "TRANSITION"
+      ],
+      "function_explanation": "孟远舟被带走，周望卸载母亲回声，案件结束，转向尾声",
+      "state_change": "案件结束",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S08",
+      "function_tags": [
+        "THEME",
+        "CHARACTER",
+        "EMOTION",
+        "PAYOFF"
+      ],
+      "function_explanation": "姐妹海边对话，许若清关机不再录音，主题升华，人物成长，新的开始",
+      "state_change": "新的开始",
+      "suspected_functionless": false
+    }
+  ],
+  "statistics": {}
+}

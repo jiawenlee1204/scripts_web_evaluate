@@ -1,0 +1,56 @@
+[
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S01",
+    "candidate_id": "S01",
+    "setup_content": "唐微承认协助许若安设计证据托管方案并为其购买保险",
+    "surface_meaning_at_first": "唐微作为法务为许若安提供常规法律保障",
+    "possible_future_function": "保险可能成为后续剧情中关键证据或触发条件，例如许若安利用保险金或保险条款制造保护",
+    "evidence": "唐微在停车场向许若清和顾峥坦白"
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S02",
+    "candidate_id": "S02",
+    "setup_content": "技术团队将许若安样本加入备用方案",
+    "surface_meaning_at_first": "为发布会准备技术展示",
+    "possible_future_function": "备用方案可能被用来恢复许若安的数字意识或成为后续冲突的焦点",
+    "evidence": "发布会后台，孟远舟和技术团队操作"
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S03",
+    "candidate_id": "S03",
+    "setup_content": "唐微展示许若安的备忘录，说明证人保护机制",
+    "surface_meaning_at_first": "解释回声系统的证人保护规则",
+    "possible_future_function": "证人保护机制可能在后续剧情中被触发，保护重要证人或作为转折点",
+    "evidence": "唐微在公寓向许若清展示备忘录"
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S04",
+    "candidate_id": "S04",
+    "setup_content": "门禁记录显示唐微和另一人（周望）进入天台",
+    "surface_meaning_at_first": "确定周望为嫌疑人",
+    "possible_future_function": "天台可能是关键案发现场，周望的动机与母亲回声删除有关，后续可能揭示更多真相",
+    "evidence": "顾峥在刑警队技术室查看门禁记录"
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S06",
+    "candidate_id": "S06",
+    "setup_content": "管理员声音要求放原始音频",
+    "surface_meaning_at_first": "系统自动提示",
+    "possible_future_function": "管理员可能是隐藏的最终BOSS，操控全局，原始音频将揭露重大秘密",
+    "evidence": "许若清在发布会主控室听到管理员声音"
+  },
+  {
+    "episode_id": "E06",
+    "scene_id": "E06-S08",
+    "candidate_id": "S08",
+    "setup_content": "大屏突然播放许若安影像说‘别报警’",
+    "surface_meaning_at_first": "意外出现的影像警告",
+    "possible_future_function": "许若安可能并未死亡或被数字化，管理员利用其影像传达信息，将引发剧情反转",
+    "evidence": "发布会后台通道，许若清、孟远舟、顾峥看到大屏"
+  }
+]

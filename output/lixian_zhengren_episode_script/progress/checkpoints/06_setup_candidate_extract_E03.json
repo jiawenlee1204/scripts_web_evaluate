@@ -1,0 +1,74 @@
+[
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S01",
+    "candidate_id": "E03-S01-1",
+    "setup_content": "许若清播放的十三段音频被周望判断为人格残留而非聊天记录",
+    "surface_meaning_at_first": "音频是已故者的人格副本",
+    "possible_future_function": "成为揭示系统如何生成人格残留的关键证据",
+    "evidence": "许若清播放十三段音频，周望判断这是人格残留而非聊天记录"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S02",
+    "candidate_id": "E03-S02-1",
+    "setup_content": "江白出租屋墙上写着‘不要回答第二遍相同的问题’",
+    "surface_meaning_at_first": "一个奇怪的警告",
+    "possible_future_function": "提示系统会利用重复回答进行身份验证或人格复制",
+    "evidence": "墙上‘不要回答第二遍相同的问题’"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S03",
+    "candidate_id": "E03-S03-1",
+    "setup_content": "顾峥发现陆鸣举报信草稿，提到采集私密语音并生成人格",
+    "surface_meaning_at_first": "公司存在不当收集行为",
+    "possible_future_function": "作为法律证据或揭露公司核心技术的伦理问题",
+    "evidence": "举报信草稿提到采集私密语音并生成人格"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S04",
+    "candidate_id": "E03-S04-1",
+    "setup_content": "孟远舟在发布会中说‘让重要的人以另一种方式陪伴你’",
+    "surface_meaning_at_first": "公司宣传语，暗示数字复活",
+    "possible_future_function": "暗示公司产品的真实功能是保留死者人格",
+    "evidence": "孟远舟录制发布会视频时说‘让重要的人以另一种方式陪伴你’"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S05",
+    "candidate_id": "E03-S05-1",
+    "setup_content": "江白警告许若清，她姐姐最后出现在模型训练室，‘出来时是权限’",
+    "surface_meaning_at_first": "姐姐变成了系统内的权限",
+    "possible_future_function": "许若安可能以数字形式存在，并拥有系统最高权限",
+    "evidence": "江白说‘她姐姐最后出现在模型训练室，出来时是权限’"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S06",
+    "candidate_id": "E03-S06-1",
+    "setup_content": "江白播放许若安最后一次访谈录音，许若安说愿意留下",
+    "surface_meaning_at_first": "姐姐自愿参与实验",
+    "possible_future_function": "解释许若安成为系统权限的动机，可能是自我牺牲",
+    "evidence": "录音中许若安说‘愿意留下’"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S07",
+    "candidate_id": "E03-S07-1",
+    "setup_content": "许若清向顾峥隐瞒了录音笔的存在",
+    "surface_meaning_at_first": "不信任警方",
+    "possible_future_function": "录音笔可能包含重要证据，隐瞒导致后续冲突或关键信息延误",
+    "evidence": "许若清隐瞒了录音笔"
+  },
+  {
+    "episode_id": "E03",
+    "scene_id": "E03-S08",
+    "candidate_id": "E03-S08-1",
+    "setup_content": "周望潜入训练室后听到母亲声音，被锁在室内，许若安账号显示为管理员",
+    "surface_meaning_at_first": "系统出现异常，许若安拥有管理员权限",
+    "possible_future_function": "周望遭遇危险，许若安可能是幕后操控者或受害者转变为管理者",
+    "evidence": "周望听到母亲声音后被锁，许若安账号显示为管理员"
+  }
+]

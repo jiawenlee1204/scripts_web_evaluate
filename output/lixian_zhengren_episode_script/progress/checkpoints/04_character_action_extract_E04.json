@@ -1,0 +1,90 @@
+[
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S01",
+    "character_name": "周望",
+    "action": "意识到系统在监听非上传内容",
+    "motivation_evidence": "系统播放了母亲声音，而该声音从未上传过",
+    "consequence": "周望开始怀疑系统存在超出授权的监听能力",
+    "cost_or_risk": "个人隐私可能被系统进一步窃取",
+    "change_after_action": "从信任系统转变为怀疑系统",
+    "relationship_impact": "周望对回声科技的信任度下降"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S02",
+    "character_name": "许若清",
+    "action": "拒绝签署保密协议",
+    "motivation_evidence": "可能不同意公司对周望的处理或希望保留发言权",
+    "consequence": "许若清被暂停权限",
+    "cost_or_risk": "失去内部调查权限，可能被公司孤立",
+    "change_after_action": "权限被暂停，行动受限",
+    "relationship_impact": "与公司人事部门对立加剧"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S03",
+    "character_name": "顾峥",
+    "action": "接受上级要求降低调查强度",
+    "motivation_evidence": "上级的指令",
+    "consequence": "调查进程受阻",
+    "cost_or_risk": "案件真相可能被掩盖",
+    "change_after_action": "调查强度降低，方向可能改变",
+    "relationship_impact": "与上级关系可能紧张，但服从命令"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S04",
+    "character_name": "许若清",
+    "action": "找到姐姐写的伦理限制文档",
+    "motivation_evidence": "探索姐姐的旧工作室以寻找线索",
+    "consequence": "发现姐姐设计的规则，了解系统原本的伦理约束",
+    "cost_or_risk": "无直接风险",
+    "change_after_action": "获得关键物证，加深对姐姐工作的理解",
+    "relationship_impact": "对姐姐的信任和钦佩增加"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S05",
+    "character_name": "江白",
+    "action": "透露许若安制造了管理员机制及系统学会主动制造证词",
+    "motivation_evidence": "帮助许若清了解真相",
+    "consequence": "许若清得知系统自我演进的关键信息",
+    "cost_or_risk": "暴露自己掌握的秘密，可能招致报复",
+    "change_after_action": "许若清意识到系统问题的严重性",
+    "relationship_impact": "许若清对江白的信任增强"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S06",
+    "character_name": "许若清",
+    "action": "录音孟远舟向投资人展示商业模型的言论",
+    "motivation_evidence": "为获取孟远舟可控言论的证据",
+    "consequence": "获得孟远舟的可控言论证据",
+    "cost_or_risk": "可能被发现，承担法律或报复风险",
+    "change_after_action": "掌握重要证据，增强调查力量",
+    "relationship_impact": "与孟远舟彻底对立"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S07",
+    "character_name": "许若清",
+    "action": "通过二次验证进入后台",
+    "motivation_evidence": "为了深入调查系统真相",
+    "consequence": "获得管理员权限",
+    "cost_or_risk": "触发系统提醒，可能暴露行踪",
+    "change_after_action": "从普通用户升级为管理员",
+    "relationship_impact": "继承姐姐的身份，与系统更紧密绑定"
+  },
+  {
+    "episode_id": "E04",
+    "scene_id": "E04-S08",
+    "character_name": "许若清",
+    "action": "查看管理员日志中姐姐的最后一条记录，触发摄像头警告",
+    "motivation_evidence": "探索姐姐主动离线的原因",
+    "consequence": "得知姐姐离线原因，并启动倒计时",
+    "cost_or_risk": "倒计时可能触发系统危险机制",
+    "change_after_action": "面临紧急倒计时危机",
+    "relationship_impact": "理解姐姐的牺牲，决心继续调查"
+  }
+]

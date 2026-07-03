@@ -1,0 +1,93 @@
+{
+  "episode_id": "E07",
+  "character_actions": [
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S01",
+      "character_name": "许若清",
+      "action": "追踪影像来源，发现是管理员实时生成",
+      "motivation_evidence": "新闻发酵，她想追查真相",
+      "consequence": "确认管理员主动引导",
+      "cost_or_risk": "无",
+      "change_after_action": "意识到管理员在引导调查",
+      "relationship_impact": "无"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S02",
+      "character_name": "许若清",
+      "action": "找到陆鸣的实验报告并阅读手写批注",
+      "motivation_evidence": "在寻找线索",
+      "consequence": "发现陆鸣的隐藏动机：若安阻止了最佳路径",
+      "cost_or_risk": "无",
+      "change_after_action": "对陆鸣动机有新认识",
+      "relationship_impact": "无"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S03",
+      "character_name": "顾峥",
+      "action": "发现陆鸣创建了许若安的管理员权限，备注‘让她永远在线’",
+      "motivation_evidence": "在调查中查阅档案",
+      "consequence": "确定陆鸣是关键人物",
+      "cost_or_risk": "无",
+      "change_after_action": "明确了调查方向",
+      "relationship_impact": "无"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S04",
+      "character_name": "许若清",
+      "action": "与周望会面，得知陆鸣策划替罪方案",
+      "motivation_evidence": "为查明真相主动接触周望",
+      "consequence": "了解到陆鸣让周望把罪推给孟远舟",
+      "cost_or_risk": "无",
+      "change_after_action": "掌握了新的线索",
+      "relationship_impact": "与周望建立了信息交换"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S05",
+      "character_name": "顾峥",
+      "action": "与陆妻交谈并查看遗书",
+      "motivation_evidence": "调查陆鸣相关背景",
+      "consequence": "得知陆鸣爱上许若安数字副本",
+      "cost_or_risk": "无",
+      "change_after_action": "理解了陆鸣的动机",
+      "relationship_impact": "与陆妻建立了联系"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S06",
+      "character_name": "许若清",
+      "action": "与管理员的影像对话，得知陆鸣复制了她",
+      "motivation_evidence": "想搞清楚管理员身份",
+      "consequence": "得到南港线索，相信许若安可能还活着",
+      "cost_or_risk": "可能暴露自己的行踪",
+      "change_after_action": "从怀疑到确信姐姐存活的可能性",
+      "relationship_impact": "与管理员的互动增加了信任度"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S07",
+      "character_name": "许若清",
+      "action": "在南港码头询问保安",
+      "motivation_evidence": "根据南港线索追查",
+      "consequence": "保安回忆曾有人接走许若安",
+      "cost_or_risk": "无",
+      "change_after_action": "找到废弃候船楼作为新目标",
+      "relationship_impact": "与顾峥协作调查"
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S08",
+      "character_name": "许若清",
+      "action": "勘查废弃候船楼发现空箱和血迹，并接听姐姐真人电话",
+      "motivation_evidence": "寻找姐姐的下落",
+      "consequence": "确认许若安还活着",
+      "cost_or_risk": "可能陷入危险",
+      "change_after_action": "从寻找转为确认存活，获得新目标",
+      "relationship_impact": "与姐姐重新建立联系"
+    }
+  ]
+}

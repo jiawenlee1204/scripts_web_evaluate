@@ -1,0 +1,102 @@
+{
+  "episode_id": "E07",
+  "scene_functions": [
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S01",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CHARACTER"
+      ],
+      "function_explanation": "许若清追踪影像来源，发现管理员实时生成，揭示幕后黑手主动引导剧情。",
+      "state_change": "确认管理员主动引导",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S02",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CHARACTER"
+      ],
+      "function_explanation": "许若清发现陆鸣实验报告中的隐藏动机，深化角色复杂性并推进主线。",
+      "state_change": "发现陆鸣的隐藏动机",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S03",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CHARACTER"
+      ],
+      "function_explanation": "顾峥发现陆鸣为许若安创建管理员权限，锁定关键人物并揭示其执念。",
+      "state_change": "陆鸣是关键人物",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S04",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "CONFLICT"
+      ],
+      "function_explanation": "周望指证陆鸣策划替罪方案，揭示核心冲突与阴谋。",
+      "state_change": "陆鸣策划了替罪方案",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S05",
+      "function_tags": [
+        "CHARACTER",
+        "EMOTION",
+        "THEME",
+        "CLUE"
+      ],
+      "function_explanation": "陆妻出示遗书，揭示陆鸣对数字副本的畸形爱恋，深化主题与情感。",
+      "state_change": "陆鸣爱上许若安数字副本",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S06",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "管理员影像承认陆鸣复制许若安，并暗示现实中的她还活着，带来情感冲击与线索。",
+      "state_change": "得到南港线索",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S07",
+      "function_tags": [
+        "PLOT",
+        "CLUE"
+      ],
+      "function_explanation": "保安回忆许若安被接走，推动调查进展并发现新地点。",
+      "state_change": "找到废弃候船楼",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E07",
+      "scene_id": "E07-S08",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION",
+        "PAYOFF"
+      ],
+      "function_explanation": "发现空箱子和血迹，接到许若安真人电话，完成情感反转并收束多条线索。",
+      "state_change": "发现许若安还活着",
+      "suspected_functionless": false
+    }
+  ]
+}

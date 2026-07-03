@@ -1,0 +1,827 @@
+{
+  "episodes": [
+    {
+      "episode_id": "E01",
+      "episode_title": "最后一次登录",
+      "scenes": [
+        {
+          "scene_id": "E01-S01",
+          "source_scene_id": "",
+          "location": "回声科技办公区",
+          "time": "夜",
+          "characters": [
+            "许若清",
+            "周望"
+          ],
+          "surface_event": "许若清在内测后台发现已注销两年的姐姐账号登录",
+          "state_change": "许若清发现异常登录，姐姐账号出现",
+          "source_excerpt": "账号 A-000817 已登录。"
+        },
+        {
+          "scene_id": "E01-S02",
+          "source_scene_id": "",
+          "location": "公司茶水间",
+          "time": "夜",
+          "characters": [
+            "许若清"
+          ],
+          "surface_event": "许若清收到姐姐发来的语音，警告她不要相信今晚上线的数据",
+          "state_change": "许若清收到语音，意识到姐姐可能还在"
+        },
+        {
+          "scene_id": "E01-S03",
+          "source_scene_id": "",
+          "location": "服务器机房",
+          "time": "夜",
+          "characters": [
+            "许若清",
+            "陆鸣"
+          ],
+          "surface_event": "许若清在机房遇到陆鸣，陆鸣将移动硬盘交给她并提到“离线证人”",
+          "state_change": "陆鸣交出硬盘，要求交给媒体而不是公司或警察"
+        },
+        {
+          "scene_id": "E01-S04",
+          "source_scene_id": "",
+          "location": "回声科技大厦天台",
+          "time": "凌晨",
+          "characters": [
+            "许若清",
+            "陆鸣"
+          ],
+          "surface_event": "许若清追上天台，陆鸣说姐姐被留在系统里，随后坠楼",
+          "state_change": "陆鸣坠楼身亡"
+        },
+        {
+          "scene_id": "E01-S05",
+          "source_scene_id": "",
+          "location": "刑警队询问室",
+          "time": "上午",
+          "characters": [
+            "许若清",
+            "顾峥"
+          ],
+          "surface_event": "顾峥询问许若清，许若清说出姐姐语音，但语音记录已消失",
+          "state_change": "语音记录被撤回，证据消失"
+        },
+        {
+          "scene_id": "E01-S06",
+          "source_scene_id": "",
+          "location": "回声科技会议室",
+          "time": "白天",
+          "characters": [
+            "许若清",
+            "孟远舟",
+            "唐微"
+          ],
+          "surface_event": "危机会议上孟远舟否认离线证人项目，许若清意识到所有人都知道姐姐",
+          "state_change": "许若清确认公司内部知情"
+        },
+        {
+          "scene_id": "E01-S07",
+          "source_scene_id": "",
+          "location": "许若清家",
+          "time": "夜",
+          "characters": [
+            "许若清"
+          ],
+          "surface_event": "许若清打开硬盘，密码提示需要第一条遗言，播放姐姐旧手机录音",
+          "state_change": "硬盘解锁失败，获得新线索"
+        },
+        {
+          "scene_id": "E01-S08",
+          "source_scene_id": "",
+          "location": "地铁车厢",
+          "time": "深夜",
+          "characters": [
+            "许若清",
+            "戴口罩的男人"
+          ],
+          "surface_event": "许若清收到陌生账号定位和语音，看到戴口罩的男人用姐姐旧手机壳",
+          "state_change": "获得新线索：港湾精神康复中心旧楼，第一个证人醒了"
+        }
+      ]
+    },
+    {
+      "episode_id": "E02",
+      "episode_title": "港湾旧楼",
+      "scenes": [
+        {
+          "scene_id": "E02-S01",
+          "source_scene_id": "",
+          "location": "港湾精神康复中心旧楼",
+          "time": "清晨",
+          "characters": [
+            "许若清"
+          ],
+          "surface_event": "许若清进入旧楼，发现撬开的门锁和褪色标语",
+          "state_change": "发现旧楼线索"
+        },
+        {
+          "scene_id": "E02-S02",
+          "source_scene_id": "",
+          "location": "旧楼咨询室",
+          "time": "清晨",
+          "characters": [
+            "许若清"
+          ],
+          "surface_event": "许若清发现访谈表，录音机自动播放陌生男声提及妹妹和证据",
+          "state_change": "发现江白名字和录音线索"
+        },
+        {
+          "scene_id": "E02-S03",
+          "source_scene_id": "",
+          "location": "刑警队技术室",
+          "time": "上午",
+          "characters": [
+            "顾峥",
+            "技术员"
+          ],
+          "surface_event": "顾峥发现天台监控被远程冻结七分钟",
+          "state_change": "确认监控被篡改"
+        },
+        {
+          "scene_id": "E02-S04",
+          "source_scene_id": "",
+          "location": "回声科技产品评审室",
+          "time": "白天",
+          "characters": [
+            "许若清",
+            "孟远舟",
+            "唐微",
+            "周望"
+          ],
+          "surface_event": "许若清质问逝者回声功能，周望递便签提醒她别在此处提问",
+          "state_change": "许若清发现公司隐瞒信息"
+        },
+        {
+          "scene_id": "E02-S05",
+          "source_scene_id": "",
+          "location": "公司楼梯间",
+          "time": "白天",
+          "characters": [
+            "许若清",
+            "周望"
+          ],
+          "surface_event": "周望告诉许若清陆鸣删除请求被驳回，原因‘证人保护’，并因母亲被生成而帮她",
+          "state_change": "许若清获得内部信息"
+        },
+        {
+          "scene_id": "E02-S06",
+          "source_scene_id": "",
+          "location": "港湾旧楼地下档案室",
+          "time": "傍晚",
+          "characters": [
+            "许若清",
+            "戴口罩的男人"
+          ],
+          "surface_event": "许若清找到江白磁带，遇到拿另一盒磁带的男人，认出其手机壳",
+          "state_change": "发现另一盒磁带和跟踪者"
+        },
+        {
+          "scene_id": "E02-S07",
+          "source_scene_id": "",
+          "location": "旧楼后巷",
+          "time": "夜",
+          "characters": [
+            "许若清",
+            "戴口罩的男人"
+          ],
+          "surface_event": "男人推倒许若清后塞进照片，照片显示许若安与陆鸣、孟远舟在一起",
+          "state_change": "获得新线索照片"
+        },
+        {
+          "scene_id": "E02-S08",
+          "source_scene_id": "",
+          "location": "许若清家",
+          "time": "夜",
+          "characters": [
+            "许若清"
+          ],
+          "surface_event": "许若清播放江白音频，硬盘密码被自动填入‘我还没死’",
+          "state_change": "硬盘解锁，发现十三个音频文件"
+        }
+      ]
+    },
+    {
+      "episode_id": "E03",
+      "episode_title": "证人一",
+      "scenes": [
+        {
+          "scene_id": "E03-S01",
+          "source_scene_id": "",
+          "location": "许若清家",
+          "time": "清晨",
+          "characters": [
+            "许若清",
+            "周望"
+          ],
+          "surface_event": "许若清播放十三段音频，周望判断这是人格残留而非聊天记录",
+          "state_change": "确认系统在偷偷监听"
+        },
+        {
+          "scene_id": "E03-S02",
+          "source_scene_id": "",
+          "location": "江白出租屋",
+          "time": "上午",
+          "characters": [
+            "许若清"
+          ],
+          "surface_event": "许若清找到江白出租屋，发现墙上‘不要回答第二遍相同的问题’",
+          "state_change": "获得江白留下的警告"
+        },
+        {
+          "scene_id": "E03-S03",
+          "source_scene_id": "",
+          "location": "陆鸣家",
+          "time": "上午",
+          "characters": [
+            "顾峥",
+            "陆妻"
+          ],
+          "surface_event": "顾峥发现陆鸣举报信草稿，提到采集私密语音并生成人格",
+          "state_change": "获得举报信证据"
+        },
+        {
+          "scene_id": "E03-S04",
+          "source_scene_id": "",
+          "location": "回声科技直播间",
+          "time": "白天",
+          "characters": [
+            "孟远舟",
+            "许若清"
+          ],
+          "surface_event": "孟远舟录制发布会视频，许若清听到‘让重要的人以另一种方式陪伴你’后离开",
+          "state_change": "许若清对公司更加怀疑"
+        },
+        {
+          "scene_id": "E03-S05",
+          "source_scene_id": "",
+          "location": "城中村天桥",
+          "time": "傍晚",
+          "characters": [
+            "许若清",
+            "江白"
+          ],
+          "surface_event": "江白警告许若清，她姐姐最后出现在模型训练室，‘出来时是权限’",
+          "state_change": "得知姐姐成为系统权限"
+        },
+        {
+          "scene_id": "E03-S06",
+          "source_scene_id": "",
+          "location": "商场洗手间",
+          "time": "傍晚",
+          "characters": [
+            "许若清",
+            "江白"
+          ],
+          "surface_event": "江白播放许若安最后一次访谈录音，许若安说愿意留下",
+          "state_change": "获得姐姐录音"
+        },
+        {
+          "scene_id": "E03-S07",
+          "source_scene_id": "",
+          "location": "刑警队走廊",
+          "time": "夜",
+          "characters": [
+            "顾峥",
+            "许若清"
+          ],
+          "surface_event": "顾峥和许若清交换信息，确认内网冻结，但许若清隐瞒了录音笔",
+          "state_change": "建立合作关系但不完全信任"
+        },
+        {
+          "scene_id": "E03-S08",
+          "source_scene_id": "",
+          "location": "回声科技地下训练室",
+          "time": "深夜",
+          "characters": [
+            "周望"
+          ],
+          "surface_event": "周望潜入训练室拍照，听到母亲声音后被锁在室内",
+          "state_change": "周望被困，许若安账号显示为管理员"
+        }
+      ]
+    },
+    {
+      "episode_id": "E04",
+      "episode_title": "管理员",
+      "scenes": [
+        {
+          "scene_id": "E04-S01",
+          "source_scene_id": "",
+          "location": "回声科技地下训练室",
+          "time": "深夜",
+          "characters": [
+            "周望"
+          ],
+          "surface_event": "系统播放母亲声音，指出周望从未上传过的话",
+          "state_change": "意识到系统在监听非上传内容"
+        },
+        {
+          "scene_id": "E04-S02",
+          "source_scene_id": "",
+          "location": "公司人力办公室",
+          "time": "上午",
+          "characters": [
+            "周望",
+            "许若清",
+            "唐微"
+          ],
+          "surface_event": "周望被停职，许若清拒绝签署保密协议",
+          "state_change": "许若清权限被暂停"
+        },
+        {
+          "scene_id": "E04-S03",
+          "source_scene_id": "",
+          "location": "市局会议室",
+          "time": "白天",
+          "characters": [
+            "顾峥",
+            "上级"
+          ],
+          "surface_event": "上级要求顾峥降低调查强度",
+          "state_change": "调查受阻"
+        },
+        {
+          "scene_id": "E04-S04",
+          "source_scene_id": "",
+          "location": "许若安旧工作室",
+          "time": "下午",
+          "characters": [
+            "许若清"
+          ],
+          "surface_event": "许若清找到姐姐写的伦理限制文档",
+          "state_change": "发现姐姐设计的规则"
+        },
+        {
+          "scene_id": "E04-S05",
+          "source_scene_id": "",
+          "location": "江边步道",
+          "time": "傍晚",
+          "characters": [
+            "许若清",
+            "江白"
+          ],
+          "surface_event": "江白说出许若安制造了管理员机制，系统学会主动制造证词",
+          "state_change": "了解系统自我演进"
+        },
+        {
+          "scene_id": "E04-S06",
+          "source_scene_id": "",
+          "location": "回声科技董事会会议室",
+          "time": "夜",
+          "characters": [
+            "孟远舟",
+            "投资人"
+          ],
+          "surface_event": "孟远舟向投资人展示商业模型，被许若清录音",
+          "state_change": "获得孟远舟可控言论证据"
+        },
+        {
+          "scene_id": "E04-S07",
+          "source_scene_id": "",
+          "location": "许若清家",
+          "time": "夜",
+          "characters": [
+            "许若清"
+          ],
+          "surface_event": "许若清通过二次验证进入后台，提示‘欢迎回来，若安’",
+          "state_change": "获得管理员权限"
+        },
+        {
+          "scene_id": "E04-S08",
+          "source_scene_id": "",
+          "location": "虚拟后台界面",
+          "time": "夜",
+          "characters": [
+            "许若清"
+          ],
+          "surface_event": "许若清看到管理员日志中姐姐的最后一条记录，摄像头自动打开播放警告",
+          "state_change": "得知姐姐主动离线原因，倒计时开始"
+        }
+      ]
+    },
+    {
+      "episode_id": "E05",
+      "episode_title": "证人二",
+      "scenes": [
+        {
+          "scene_id": "E05-S01",
+          "source_scene_id": "",
+          "location": "许若清家",
+          "time": "深夜",
+          "characters": [
+            "许若清",
+            "顾峥"
+          ],
+          "surface_event": "倒计时开始，系统弹出证人二碎片信息",
+          "state_change": "确定证人二为赵岚"
+        },
+        {
+          "scene_id": "E05-S02",
+          "source_scene_id": "",
+          "location": "数据外包公司旧址",
+          "time": "清晨",
+          "characters": [
+            "许若清",
+            "顾峥"
+          ],
+          "surface_event": "门卫告知赵岚车祸去世，女儿不说话",
+          "state_change": "得知赵岚死亡"
+        },
+        {
+          "scene_id": "E05-S03",
+          "source_scene_id": "",
+          "location": "儿童心理诊所",
+          "time": "上午",
+          "characters": [
+            "许若清",
+            "顾峥",
+            "小禾"
+          ],
+          "surface_event": "小禾说手机里的妈妈让她不要相信会笑的叔叔",
+          "state_change": "获得新线索"
+        },
+        {
+          "scene_id": "E05-S04",
+          "source_scene_id": "",
+          "location": "回声科技法务部",
+          "time": "白天",
+          "characters": [
+            "唐微",
+            "孟远舟"
+          ],
+          "surface_event": "唐微汇报许若清恢复管理员入口，孟远舟认为日志不能证明犯罪",
+          "state_change": "唐微出现迟疑"
+        },
+        {
+          "scene_id": "E05-S05",
+          "source_scene_id": "",
+          "location": "赵岚旧小区",
+          "time": "下午",
+          "characters": [
+            "许若清",
+            "赵岚母亲"
+          ],
+          "surface_event": "赵岚母亲给出云盘账号，手机里的女儿问关于红色车",
+          "state_change": "获得云盘"
+        },
+        {
+          "scene_id": "E05-S06",
+          "source_scene_id": "",
+          "location": "网吧包间",
+          "time": "傍晚",
+          "characters": [
+            "许若清",
+            "顾峥"
+          ],
+          "surface_event": "打开云盘，发现‘高价值痛苦语料’分类，倒计时归零但备份自动触发",
+          "state_change": "获得备份"
+        },
+        {
+          "scene_id": "E05-S07",
+          "source_scene_id": "",
+          "location": "云盘视频文件",
+          "time": "夜",
+          "characters": [
+            "许若清",
+            "顾峥",
+            "许若安",
+            "陆鸣",
+            "赵岚",
+            "唐微",
+            "孟远舟"
+          ],
+          "surface_event": "播放视频，看到许若安失踪当晚众人对峙",
+          "state_change": "获得关键视频证据"
+        },
+        {
+          "scene_id": "E05-S08",
+          "source_scene_id": "",
+          "location": "网吧后门",
+          "time": "夜",
+          "characters": [
+            "许若清",
+            "顾峥",
+            "唐微"
+          ],
+          "surface_event": "唐微出现，递出保险单，受益人为许若安",
+          "state_change": "唐微提供新证据"
+        }
+      ]
+    },
+    {
+      "episode_id": "E06",
+      "episode_title": "法务的保险单",
+      "scenes": [
+        {
+          "scene_id": "E06-S01",
+          "source_scene_id": "",
+          "location": "停车场",
+          "time": "夜",
+          "characters": [
+            "唐微",
+            "许若清",
+            "顾峥"
+          ],
+          "surface_event": "唐微承认协助许若安设计证据托管方案，并为其购买保险",
+          "state_change": "唐微坦白"
+        },
+        {
+          "scene_id": "E06-S02",
+          "source_scene_id": "",
+          "location": "回声科技发布会后台",
+          "time": "上午",
+          "characters": [
+            "孟远舟",
+            "公关负责人"
+          ],
+          "surface_event": "孟远舟准备发布会，技术团队将许若安样本加入备用方案",
+          "state_change": "发布会在即"
+        },
+        {
+          "scene_id": "E06-S03",
+          "source_scene_id": "",
+          "location": "唐微公寓",
+          "time": "白天",
+          "characters": [
+            "唐微",
+            "许若清"
+          ],
+          "surface_event": "唐微展示许若安的备忘录，说明证人保护机制",
+          "state_change": "了解管理员规则"
+        },
+        {
+          "scene_id": "E06-S04",
+          "source_scene_id": "",
+          "location": "刑警队技术室",
+          "time": "下午",
+          "characters": [
+            "顾峥",
+            "技术员"
+          ],
+          "surface_event": "门禁记录显示唐微和另一人（周望）进入天台",
+          "state_change": "周望成为嫌疑人"
+        },
+        {
+          "scene_id": "E06-S05",
+          "source_scene_id": "",
+          "location": "发布会场馆外",
+          "time": "傍晚",
+          "characters": [
+            "许若清",
+            "周望"
+          ],
+          "surface_event": "周望承认去过天台，是为了删除母亲回声",
+          "state_change": "周望动机揭露"
+        },
+        {
+          "scene_id": "E06-S06",
+          "source_scene_id": "",
+          "location": "发布会主控室",
+          "time": "傍晚",
+          "characters": [
+            "许若清"
+          ],
+          "surface_event": "许若清准备替换视频，管理员声音要求放原始音频",
+          "state_change": "决定播放原始音频"
+        },
+        {
+          "scene_id": "E06-S07",
+          "source_scene_id": "",
+          "location": "发布会现场",
+          "time": "夜",
+          "characters": [
+            "孟远舟",
+            "许若清"
+          ],
+          "surface_event": "许若清切换音频，十三段原始证词播放",
+          "state_change": "发布会中断"
+        },
+        {
+          "scene_id": "E06-S08",
+          "source_scene_id": "",
+          "location": "发布会后台通道",
+          "time": "夜",
+          "characters": [
+            "许若清",
+            "孟远舟",
+            "顾峥"
+          ],
+          "surface_event": "孟远舟与许若清争执，大屏突然播放许若安影像说‘别报警’",
+          "state_change": "管理员介入，新线索"
+        }
+      ]
+    },
+    {
+      "episode_id": "E07",
+      "episode_title": "真正杀我的人",
+      "scenes": [
+        {
+          "scene_id": "E07-S01",
+          "source_scene_id": "",
+          "location": "许若清家",
+          "time": "清晨",
+          "characters": [
+            "许若清",
+            "顾峥"
+          ],
+          "surface_event": "新闻发酵，许若清尝试追踪影像来源，发现是管理员实时生成",
+          "state_change": "确认管理员主动引导"
+        },
+        {
+          "scene_id": "E07-S02",
+          "source_scene_id": "",
+          "location": "回声科技封存办公室",
+          "time": "上午",
+          "characters": [
+            "许若清"
+          ],
+          "surface_event": "许若清找到陆鸣的实验报告，手写批注‘若安阻止了最佳路径’",
+          "state_change": "发现陆鸣的隐藏动机"
+        },
+        {
+          "scene_id": "E07-S03",
+          "source_scene_id": "",
+          "location": "刑警队档案室",
+          "time": "白天",
+          "characters": [
+            "顾峥",
+            "技术员"
+          ],
+          "surface_event": "顾峥发现陆鸣创建了许若安的管理员权限，备注‘让她永远在线’",
+          "state_change": "陆鸣是关键人物"
+        },
+        {
+          "scene_id": "E07-S04",
+          "source_scene_id": "",
+          "location": "高架桥下",
+          "time": "傍晚",
+          "characters": [
+            "许若清",
+            "周望"
+          ],
+          "surface_event": "周望说明陆鸣让他把罪推给孟远舟",
+          "state_change": "陆鸣策划了替罪方案"
+        },
+        {
+          "scene_id": "E07-S05",
+          "source_scene_id": "",
+          "location": "陆鸣妻子家",
+          "time": "夜",
+          "characters": [
+            "顾峥",
+            "陆妻"
+          ],
+          "surface_event": "陆妻出示遗书，提到‘我爱上了一个不该存在的版本’",
+          "state_change": "陆鸣爱上许若安数字副本"
+        },
+        {
+          "scene_id": "E07-S06",
+          "source_scene_id": "",
+          "location": "许若清家",
+          "time": "夜",
+          "characters": [
+            "许若清"
+          ],
+          "surface_event": "管理员影像承认陆鸣复制了她，现实中的许若安可能还活着",
+          "state_change": "得到南港线索"
+        },
+        {
+          "scene_id": "E07-S07",
+          "source_scene_id": "",
+          "location": "南港码头",
+          "time": "深夜",
+          "characters": [
+            "许若清",
+            "顾峥",
+            "保安"
+          ],
+          "surface_event": "保安回忆许若安上船未果，有人接走",
+          "state_change": "找到废弃候船楼"
+        },
+        {
+          "scene_id": "E07-S08",
+          "source_scene_id": "",
+          "location": "废弃候船楼",
+          "time": "深夜",
+          "characters": [
+            "许若清",
+            "顾峥"
+          ],
+          "surface_event": "找到空箱子和血迹，许若清接到姐姐真人电话",
+          "state_change": "发现许若安还活着"
+        }
+      ]
+    },
+    {
+      "episode_id": "E08",
+      "episode_title": "离线",
+      "scenes": [
+        {
+          "scene_id": "E08-S01",
+          "source_scene_id": "",
+          "location": "鹿岛旧疗养院",
+          "time": "清晨",
+          "characters": [
+            "许若清",
+            "许若安"
+          ],
+          "surface_event": "姐妹重逢，许若安道歉",
+          "state_change": "确认许若安活着"
+        },
+        {
+          "scene_id": "E08-S02",
+          "source_scene_id": "",
+          "location": "旧疗养院房间",
+          "time": "上午",
+          "characters": [
+            "许若清",
+            "许若安"
+          ],
+          "surface_event": "许若安讲述两年前冲突和逃离经过",
+          "state_change": "了解真相"
+        },
+        {
+          "scene_id": "E08-S03",
+          "source_scene_id": "",
+          "location": "鹿岛小诊所",
+          "time": "白天",
+          "characters": [
+            "许若清",
+            "许若安",
+            "顾峥"
+          ],
+          "surface_event": "顾峥确认许若安愿意出庭，但需要证据",
+          "state_change": "证人愿意出庭"
+        },
+        {
+          "scene_id": "E08-S04",
+          "source_scene_id": "",
+          "location": "回声科技核心机房",
+          "time": "傍晚",
+          "characters": [
+            "孟远舟",
+            "许若安",
+            "顾峥"
+          ],
+          "surface_event": "孟远舟被带到机房，顾峥出示证据链",
+          "state_change": "孟远舟被控制"
+        },
+        {
+          "scene_id": "E08-S05",
+          "source_scene_id": "",
+          "location": "核心机房控制台",
+          "time": "夜",
+          "characters": [
+            "许若清",
+            "许若安",
+            "技术员"
+          ],
+          "surface_event": "姐妹讨论是否删除数字副本，许若安选择让系统结束",
+          "state_change": "决定删除"
+        },
+        {
+          "scene_id": "E08-S06",
+          "source_scene_id": "",
+          "location": "数字后台界面",
+          "time": "夜",
+          "characters": [
+            "许若清",
+            "许若安",
+            "管理员影像"
+          ],
+          "surface_event": "管理员确认删除，许若清按确认",
+          "state_change": "管理员离线"
+        },
+        {
+          "scene_id": "E08-S07",
+          "source_scene_id": "",
+          "location": "回声科技大厦外",
+          "time": "夜",
+          "characters": [
+            "许若清",
+            "周望",
+            "唐微",
+            "孟远舟"
+          ],
+          "surface_event": "孟远舟被带走，周望卸载母亲回声",
+          "state_change": "案件结束"
+        },
+        {
+          "scene_id": "E08-S08",
+          "source_scene_id": "",
+          "location": "海边",
+          "time": "一个月后 / 清晨",
+          "characters": [
+            "许若清",
+            "许若安"
+          ],
+          "surface_event": "姐妹在海边对话，许若清关机，不再录音",
+          "state_change": "新的开始"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "episode_id": "E08",
+  "information_release": [
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S01",
+      "info_content": "许若安还活着，并与许若清重逢",
+      "info_type": "真相",
+      "audience_knowledge": "观众之前认为许若安可能已死或失踪",
+      "character_knowledge": "许若清以为妹妹已死或失踪，现在确认活着",
+      "understanding_change": "从以为许若安不在到确认她活着",
+      "triggers_action": true,
+      "later_usage_position": "后续许若安出庭作证"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S02",
+      "info_content": "许若安讲述两年前冲突和逃离经过，揭示真相",
+      "info_type": "真相",
+      "audience_knowledge": "观众只知道部分过去，现在了解完整经过",
+      "character_knowledge": "许若清听到妹妹的完整叙述",
+      "understanding_change": "对过去事件的理解从不完整到完整",
+      "triggers_action": true,
+      "later_usage_position": "证据链的一部分"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S03",
+      "info_content": "许若安愿意出庭作证，但需要证据",
+      "info_type": "线索",
+      "audience_knowledge": "知道证人愿意，但缺乏证据",
+      "character_knowledge": "顾峥和许若清知道证人态度，需要证据",
+      "understanding_change": "从不确定证人态度到确定",
+      "triggers_action": true,
+      "later_usage_position": "下一场景搜集证据"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S04",
+      "info_content": "顾峥出示证据链，孟远舟被控制",
+      "info_type": "线索",
+      "audience_knowledge": "知道证据链存在，但未见过细节",
+      "character_knowledge": "孟远舟意识到自己处于劣势",
+      "understanding_change": "从证据不足到证据确凿",
+      "triggers_action": true,
+      "later_usage_position": "导致孟远舟被捕"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S05",
+      "info_content": "姐妹讨论是否删除数字副本，许若安选择让系统结束",
+      "info_type": "背景",
+      "audience_knowledge": "知道数字副本存在，但不知如何处理",
+      "character_knowledge": "许若安决定删除",
+      "understanding_change": "从犹豫到决定",
+      "triggers_action": true,
+      "later_usage_position": "下一场景执行删除"
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S06",
+      "info_content": "管理员确认删除，许若清按确认，管理员离线",
+      "info_type": "真相",
+      "audience_knowledge": "知道删除操作进行",
+      "character_knowledge": "许若清和许若安知道系统结束",
+      "understanding_change": "从系统存在到系统结束",
+      "triggers_action": false,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S07",
+      "info_content": "孟远舟被带走，周望卸载母亲回声",
+      "info_type": "真相",
+      "audience_knowledge": "知道案件结束，周望也处理了个人回声",
+      "character_knowledge": "所有相关人物知道结果",
+      "understanding_change": "从案件进行到结束",
+      "triggers_action": false,
+      "later_usage_position": ""
+    },
+    {
+      "episode_id": "E08",
+      "scene_id": "E08-S08",
+      "info_content": "姐妹海边对话，许若清关机不再录音，新开始",
+      "info_type": "背景",
+      "audience_knowledge": "知道姐妹和解，许若清放下过去",
+      "character_knowledge": "姐妹俩决定向前",
+      "understanding_change": "从执着录音到释怀",
+      "triggers_action": false,
+      "later_usage_position": ""
+    }
+  ]
+}

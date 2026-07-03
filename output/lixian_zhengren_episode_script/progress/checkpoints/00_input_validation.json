@@ -1,0 +1,12 @@
+{
+  "project_name": "离线证人",
+  "episode_count": 8,
+  "episode_duration": null,
+  "material_type": "分集剧本",
+  "genre_claimed": "悬疑 / 科技伦理",
+  "is_complete": true,
+  "can_evaluate": "剧本结构、情节完整性、人物弧光、主题一致性、悬疑设置、节奏控制",
+  "cannot_evaluate": "拍摄可行性、演员表演、特效预算、市场反响、配乐、导演风格",
+  "risk_notes": "涉及精神康复中心、死亡、数据隐私等敏感话题，需注意法律与社会伦理风险。",
+  "confidence_level": "高"
+}

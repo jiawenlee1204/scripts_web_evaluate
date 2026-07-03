@@ -1,0 +1,99 @@
+{
+  "episode_id": "E05",
+  "scene_functions": [
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S01",
+      "function_tags": [
+        "PLOT",
+        "CLUE"
+      ],
+      "function_explanation": "揭示证人二身份为赵岚，推动主线调查。",
+      "state_change": "确定证人二为赵岚",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S02",
+      "function_tags": [
+        "PLOT",
+        "CONFLICT"
+      ],
+      "function_explanation": "发现赵岚已死，设置障碍，增加调查难度。",
+      "state_change": "得知赵岚死亡",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S03",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "从小禾处获得关键线索：手机里的‘妈妈’指示，暗示AI骗局。",
+      "state_change": "获得新线索",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S04",
+      "function_tags": [
+        "PLOT",
+        "CHARACTER",
+        "TRANSITION"
+      ],
+      "function_explanation": "展示唐微与孟远舟的互动，唐微出现迟疑，为后续背叛伏笔。",
+      "state_change": "唐微出现迟疑",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S05",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "EMOTION"
+      ],
+      "function_explanation": "赵岚母亲提供云盘账号，手机中关于红色车的疑问加深悬疑。",
+      "state_change": "获得云盘",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S06",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "THEME"
+      ],
+      "function_explanation": "发现‘高价值痛苦语料’，数据伦理主题浮现；备份机制推动后续。",
+      "state_change": "获得备份",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S07",
+      "function_tags": [
+        "PLOT",
+        "CLUE",
+        "PAYOFF"
+      ],
+      "function_explanation": "视频揭示失踪当晚对峙，关键证据出现，呼应前文伏笔。",
+      "state_change": "获得关键视频证据",
+      "suspected_functionless": false
+    },
+    {
+      "episode_id": "E05",
+      "scene_id": "E05-S08",
+      "function_tags": [
+        "PLOT",
+        "CHARACTER",
+        "TRANSITION"
+      ],
+      "function_explanation": "唐微提供保险单，受益人许若安，发展角色关系，推动转折。",
+      "state_change": "唐微提供新证据",
+      "suspected_functionless": false
+    }
+  ]
+}
