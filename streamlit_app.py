@@ -207,16 +207,33 @@ def _render_artifacts(slot: Any, output_dir: Path) -> None:
         if not files:
             st.info("当前还没有生成过程文件。")
             return
-        for path in files:
-            with st.expander(f"{path.name} · {_mtime(path)} · {path.suffix.lower() or '文件'}"):
-                st.code(_preview_file(path), language=_preview_language(path))
-                st.download_button(
-                    "下载该文件",
-                    data=path.read_bytes(),
-                    file_name=path.name,
-                    mime=_mime_type(path),
-                    key=f"download-checkpoint-{output_dir.name}-{path.name}",
-                )
+        st.dataframe(
+            [
+                {
+                    "文件名": path.name,
+                    "更新时间": _mtime(path),
+                    "文件类型": path.suffix.lower() or "文件",
+                }
+                for path in files
+            ],
+            use_container_width=True,
+            hide_index=True,
+        )
+        selected_name = st.selectbox(
+            "选择文件预览",
+            [path.name for path in files],
+            key=f"checkpoint-preview-{output_dir.name}",
+        )
+        selected_path = next(path for path in files if path.name == selected_name)
+        st.caption(f"内容预览：{selected_path.name}")
+        st.code(_preview_file(selected_path), language=_preview_language(selected_path))
+        st.download_button(
+            "下载该文件",
+            data=selected_path.read_bytes(),
+            file_name=selected_path.name,
+            mime=_mime_type(selected_path),
+            key=f"download-checkpoint-{output_dir.name}-{selected_path.name}",
+        )
 
 
 def _render_final_report(container: Any, output_dir: Path) -> None:
@@ -293,7 +310,7 @@ def _checkpoint_files(output_dir: Path) -> list[Path]:
     return sorted((path for path in checkpoint_dir.iterdir() if path.is_file()), key=lambda item: item.stat().st_mtime)
 
 
-def _preview_file(path: Path) -> str:
+def _preview_file(path: Path, limit: int = PREVIEW_LIMIT) -> str:
     try:
         if path.suffix.lower() == ".json":
             data = json.loads(path.read_text(encoding="utf-8"))
@@ -302,8 +319,8 @@ def _preview_file(path: Path) -> str:
             text = path.read_text(encoding="utf-8", errors="replace")
     except Exception as exc:  # noqa: BLE001 - Keep artifact listing usable.
         text = f"无法预览该文件：{exc}"
-    if len(text) > PREVIEW_LIMIT:
-        return text[:PREVIEW_LIMIT] + "\n\n...内容较长，完整内容请下载文件查看。"
+    if len(text) > limit:
+        return text[:limit] + "\n\n...内容较长，完整内容请下载文件查看。"
     return text
 
 

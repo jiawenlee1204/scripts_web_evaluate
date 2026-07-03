@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+import sys
 import tempfile
 import unittest
 from pathlib import Path
@@ -8,6 +9,9 @@ from pathlib import Path
 from script_quality_evaluator.config import RuntimeConfig
 from script_quality_evaluator.pipeline import safe_run_name
 from script_quality_evaluator.web_utils import make_unique_run_name, mask_secret, sanitize_upload_filename
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from app import _preview_file  # noqa: E402
 
 
 class WebRuntimeTest(unittest.TestCase):
@@ -58,6 +62,16 @@ class WebRuntimeTest(unittest.TestCase):
         message = "HTTP 401 for key sk-test-secret"
 
         self.assertEqual(mask_secret(message, "sk-test-secret"), "HTTP 401 for key [已隐藏]")
+
+    def test_json_preview_is_formatted_and_truncated(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            path = Path(temp_dir) / "checkpoint.json"
+            path.write_text('{"items": ["第一条", "第二条"]}', encoding="utf-8")
+
+            preview = _preview_file(path, limit=20)
+
+        self.assertIn('"items"', preview)
+        self.assertIn("内容较长", preview)
 
 
 if __name__ == "__main__":
