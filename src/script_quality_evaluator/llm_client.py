@@ -7,6 +7,7 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
+from .config import RuntimeConfig
 from .io_utils import error_artifact
 
 
@@ -52,11 +53,35 @@ class LLMClient:
         return cls()
 
     @classmethod
+    def from_config(cls, config: RuntimeConfig) -> "LLMClient":
+        return cls(
+            api_key=config.api_key,
+            model=config.main_model,
+            base_url=config.base_url,
+            temperature=config.temperature,
+            top_p=config.top_p,
+            timeout=config.timeout,
+            max_retries=config.max_retries,
+        )
+
+    @classmethod
     def judge_from_env(cls, model: str | None = None) -> "LLMClient":
         return cls(
             api_key=os.getenv("SCRIPT_EVAL_JUDGE_API_KEY") or os.getenv("SCRIPT_EVAL_API_KEY") or os.getenv("DEEPSEEK_API_KEY") or os.getenv("OPENAI_API_KEY"),
             model=model or os.getenv("SCRIPT_EVAL_JUDGE_MODEL") or os.getenv("SCRIPT_EVAL_MODEL") or "deepseek-v4-flash",
             base_url=os.getenv("SCRIPT_EVAL_JUDGE_BASE_URL") or os.getenv("SCRIPT_EVAL_BASE_URL") or "https://api.deepseek.com",
+        )
+
+    @classmethod
+    def judge_from_config(cls, config: RuntimeConfig, model: str | None = None) -> "LLMClient":
+        return cls(
+            api_key=config.api_key,
+            model=model or config.judge_model,
+            base_url=config.base_url,
+            temperature=config.temperature,
+            top_p=config.top_p,
+            timeout=config.timeout,
+            max_retries=config.max_retries,
         )
 
     def complete_json(self, node: str, prompt: str, payload: dict[str, Any]) -> dict[str, Any]:

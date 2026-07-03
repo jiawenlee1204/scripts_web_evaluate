@@ -6,12 +6,14 @@ import re
 from pathlib import Path
 from typing import Any, Callable
 
+from .config import RuntimeConfig
 from .extraction import extract_episode_maps, generate_issue_candidates, reduce_global, split_script, validate_input
 from .io_utils import read_text, write_json, write_markdown
 from .llm_client import LLMClient, PromptNodeRunner
 from .report import render_report
 from .schemas import DIMENSION_BY_ID, DIMENSIONS, LOW_SCORE_THRESHOLD, SCORE_STABILITY_TOLERANCE
 from .scoring import calibrate_scores, collect_low_score_diagnoses, compute_final_score, ensure_low_score_diagnoses, score_all_dimensions
+from .web_utils import safe_name
 
 
 SCORE_PROMPTS = {
@@ -27,13 +29,14 @@ SCORE_PROMPTS = {
 
 def run_pipeline(
     input_path: str | Path,
-    output_dir: str | Path,
+    output_dir: str | Path = "output",
     metadata_path: str | Path | None = None,
     mode: str = "rules",
     llm_client: LLMClient | None = None,
     prompt_dir: str | Path | None = None,
     prompt_runner: PromptNodeRunner | None = None,
     judge_model: str | None = None,
+    config: RuntimeConfig | None = None,
     run_name: str | None = None,
     progress: Callable[[str], None] | None = None,
     resume: bool = False,
@@ -44,10 +47,11 @@ def run_pipeline(
     input_path = Path(input_path)
     output_dir = _run_output_dir(input_path, Path(output_dir), run_name)
     if mode == "llm":
+        judge_client = LLMClient.judge_from_config(config, judge_model) if config else LLMClient.judge_from_env(judge_model)
         runner = prompt_runner or PromptNodeRunner(
-            llm_client or LLMClient.from_env(),
+            llm_client or (LLMClient.from_config(config) if config else LLMClient.from_env()),
             prompt_dir=prompt_dir,
-            judge_client=LLMClient.judge_from_env(judge_model),
+            judge_client=judge_client,
         )
         return _run_llm_pipeline(input_path, output_dir, metadata_path, runner, progress, resume, rerun_judging)
 
@@ -428,12 +432,11 @@ def _judging_checkpoint_prefixes() -> tuple[str, ...]:
 
 
 def _run_output_dir(input_path: Path, output_base: Path, run_name: str | None = None) -> Path:
-    return output_base / _safe_run_name(run_name or input_path.stem)
+    return output_base / safe_run_name(run_name or input_path.stem)
 
 
-def _safe_run_name(name: str) -> str:
-    cleaned = re.sub(r"[^\w\u4e00-\u9fff.-]+", "_", name.strip(), flags=re.UNICODE).strip("._")
-    return cleaned or "script"
+def safe_run_name(name: str) -> str:
+    return safe_name(name)
 
 
 def _check_run_manifest(output_dir: Path, input_path: Path, raw_text: str, resume: bool) -> None:
